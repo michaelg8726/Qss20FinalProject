@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,n,positive_n
+Majority baseline (stratified post holdout),0.5692963752665245,0.0,0.0,0.0,0.5,938,404
+TF-IDF logistic regression (stratified post holdout),0.5767590618336887,0.5169082125603864,0.26485148514851486,0.3502454991816694,0.5586364816256907,938,404
+Majority baseline (owner-group holdout),0.575,0.0,0.0,0.0,0.5,840,357
+TF-IDF logistic regression (owner-group holdout),0.575,0.5,0.22969187675070027,0.31477927063339733,0.5477437351752295,840,357

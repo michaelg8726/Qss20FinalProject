@@ -1,0 +1,2 @@
+eligible_posts,eligible_owners,positive_posts,negative_or_tied_posts,ties_at_owner_median,train_posts,test_posts,group_eligible_posts,group_eligible_owners,group_positive_posts,group_negative_or_tied_posts,group_ties_at_owner_median,group_train_posts,group_test_posts
+3752,288,1615,2137,601,2814,938,3752,288,1615,2137,601,2912,840

@@ -1,0 +1,2 @@
+export,rows,columns,min_creation_time_utc,max_creation_time_utc,unique_post_ids,duplicate_post_ids,english_rows,exact_term_english_rows,policy_english_rows,unique_english_normalized_texts,unique_owners,missing_reactions,missing_comments,missing_shares,missing_views,analysis_design
+datacenter,66055,57,2024-01-01 00:55:28+00:00,2026-08-17 06:06:30+00:00,66055,0,24947,24915,3016,19880,14890,1105,2,2,14900,single consistent query

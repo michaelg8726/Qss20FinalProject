@@ -1,0 +1,1868 @@
+sample_name,review_stratum,id,creation_time,post_owner.name,content_type,text,contains_data_center_term,policy_related,total_engagement,manual_relevant,manual_policy_related,manual_notes
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2485944785246480,2026-03-22 09:49:41+00:00,Joyatres Technology,photos,"Demystifying CCNA Data Center – A Pyramid of Knowledge
+
+When people ask me, “What exactly does CCNA Data Center cover?” — I show them this pyramid. It’s a structured roadmap of the skills you need to master, layer by layer, to build confidence in modern data center technologies. 
+
+🔹 Foundation – Infrastructure 
+Nexus platforms, NX-OS, cabling, cooling, and rack design. Without this, nothing stands tall. 
+
+🔹 Virtualization 
+VMware vSphere, virtual switches, and VM networking — where physical meets virtual. 
+
+🔹 Storage 
+SANs, iSCSI, Fibre Channel, FCoE, zoning, and LUN masking. Data is the lifeblood, storage keeps it flowing. 
+
+🔹 Computing 
+Cisco UCS, blade servers, virtualization policies — the muscle of the data center. 
+
+🔹 Networking 
+Ethernet switching, VLANs, OSPF/EIGRP, fabric interconnects — the nervous system tying it all together. 
+
+---
+
+💡 Takeaway: The CCNA Data Center isn’t just about passing an exam. It’s about understanding how these domains interconnect to create a resilient, scalable, and efficient environment. 
+
+I like to call it “the art of building digital fortresses.” 🏰 
+
+---
+
+👉 Which layer do you find most challenging — Storage, Virtualization, or Networking? Let’s spark a discussion below! 
+
+---
+
+#NetworkingWithKhalid #CCNA #DataCenter #Cisco #Networking #Virtualization #Storage #UCS #TechEducation #ITInfrastructure #LearnNetworking #Infographics #CareerGrowth",True,True,28.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1304199875120532,2026-07-10 11:30:26+00:00,VICE,photos,"Public health officials in Wyoming are warning the public of a dangerous bacteria discovered in a water treatment facility. The Cheyenne Board of Public Utilities said they detected the presence of Cupriavidus gilardii in their reclaimed water irrigation system. Most healthy people have nothing to worry about, but people with weakened immune systems could suffer pneumonia, bloodstream and lung infections, and, in rare cases, death. 
+
+After months of investigating, the officials pinpointed the source for the bacteria as a Meta datacenter known as Project Cosmo, a 715,000 square foot AI facility owned by Mark Zuckerberg's company.",True,True,102.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1417030166912509,2026-06-25 16:57:35+00:00,The Macro Sift,photos,"~AI, Water, and the Mistake of Thinking Linearly~
+
+Before I dive in, it’s worth acknowledging my own perspective.
+
+I’ve been following the AI revolution closely since late 2022. I consider myself a strong proponent of these technologies, and I generally lean toward acceleration rather than hesitation. Through @TheMacroSift, I spend a significant amount of time tracking breakthroughs across AI, semiconductors, robotics, energy, biotechnology, quantum computing, and other exponential technologies. Looking at these fields together has shaped how I think about the future.
+
+That doesn’t mean I dismiss legitimate concerns. Quite the opposite. The environmental impact of AI data centers deserves scrutiny, and companies should absolutely be held accountable for how they consume energy and water.
+
+Where my perspective differs is that I don’t evaluate these problems as static. I view them through the lens of exponential technological progress.
+
+The water debate surrounding AI data centers is real. It deserves serious attention. Communities should ask hard questions about how much water new facilities consume, where that water comes from, and whether local infrastructure can support future demand.
+
+But there is another side to this conversation that often gets overlooked.
+
+The part people may be missing in the data center and water debate is that they are thinking about the problem literally and linearly. AI development does not move linearly. It moves exponentially. The same technology creating today’s energy and water challenges is also accelerating the search for solutions.
+
+Yes, data centers consume enormous amounts of electricity. Yes, many cooling systems rely on significant quantities of water. Those facts are not in dispute. What is less appreciated is how quickly the underlying technology is changing.
+
+One of the best examples came this week from NVIDIA.
+
+The company unveiled a new liquid cooling architecture for its next generation Rubin AI infrastructure that operates at temperatures as high as 45°C, or 113°F. At first glance, that sounds backwards. Hotter coolant should mean worse cooling. In reality, the opposite is true.
+
+Because the coolant can operate at much higher temperatures, the system can reject heat using outdoor dry coolers rather than traditional evaporative cooling towers in many climates. The coolant itself circulates through a closed loop, meaning it is filled once and continuously reused rather than constantly consuming fresh water. NVIDIA says this approach can reduce on site cooling water consumption by up to 100 percent under favorable conditions while also lowering the electricity required for cooling.
+
+That is an extraordinary engineering breakthrough if it performs as expected at scale. More importantly, it demonstrates something fundamental. The industry’s response to resource constraints is not to ignore them. It is to innovate around them.
+
+Does this solve every environmental concern surrounding AI?
+
+No.
+
+Water is still consumed upstream through semiconductor manufacturing and, depending on the local energy mix, electricity generation. If an AI data center is powered primarily by fossil fuels, the broader environmental footprint remains significant. Cooling is only one piece of the equation.
+
+That distinction matters because it keeps the conversation grounded in reality rather than marketing claims.
+
+There’s another dynamic at work that deserves attention.
+
+The media is structurally incentivized to focus on today’s problems rather than tomorrow’s solutions. Headlines about AI draining reservoirs, overwhelming power grids, or accelerating climate change generate immediate attention because they describe a present crisis. Headlines about improvements in cooling technology, chip efficiency, biological computing, or AI optimized infrastructure rarely receive the same level of attention because they don’t trigger the same emotional response.
+
+That doesn’t necessarily make the reporting dishonest. News is designed to capture moments in time. Technological progress is a moving target.
+
+The risk is that we begin treating today’s snapshot as if it were the final picture.
+
+When people repeatedly hear that AI data centers consume enormous amounts of water, many naturally assume the future will simply require more of the same. But history suggests that’s rarely how exponential technologies evolve. Constraints become engineering challenges. Engineering challenges attract capital, talent, and innovation. Those innovations often arrive faster than public perception adjusts.
+
+That doesn’t mean optimism should replace accountability. Companies should still be transparent. Regulators should still ask difficult questions. Communities deserve honest conversations about local impacts.
+
+But innovation itself is part of the story.
+
+Now zoom out.
+
+History is filled with examples of industries that appeared unsustainable until technological progress fundamentally changed the equation. Early automobiles were inefficient. Solar panels were prohibitively expensive. Batteries had limited capacity. Computer chips consumed enormous amounts of power relative to the work they performed.
+
+Innovation changed every one of those trajectories.
+
+AI infrastructure is unlikely to be different.
+
+In fact, there are already companies attempting something even more radical.
+
+Cortical Labs has developed a biological computing platform that grows living human neurons on silicon chips. Rather than relying exclusively on transistors, these neurons perform computation while consuming remarkably little energy. The goal is not to replace GPUs tomorrow but to create specialized computing systems that combine biological efficiency with digital hardware.
+
+Another company, FinalSpark, is pursuing a similar vision using brain organoids as computational substrates. Their long term objective is to create biological computers capable of learning and processing information using only a fraction of the energy required by today’s silicon based AI hardware.
+
+Why is this exciting?
+
+Because the human brain performs astonishing feats of perception, learning, adaptation, and problem solving while consuming roughly 20 watts of power. That’s less electricity than many household light bulbs.
+
+No one is claiming today’s biological computers are equivalent to the human brain. They are not.
+
+But they represent an entirely new direction in computing. Instead of forcing silicon to become infinitely more efficient, researchers are asking whether biology itself already solved many of these efficiency problems through millions of years of evolution.
+
+That is exactly the kind of thinking exponential technologies encourage.
+
+The public discussion often assumes that today’s AI data center is the permanent model for the future.
+
+I think that’s a mistake.
+
+The GPUs powering today’s frontier models are dramatically more efficient than the hardware used only a few years ago. Cooling systems continue to evolve. Chip architectures improve with every generation. Specialized inference processors are emerging. Optical computing is advancing. Neuromorphic computing continues to mature. Biological computing is beginning to leave the laboratory.
+
+Every one of these fields is trying to accomplish the same objective.
+
+Perform more computation while consuming less energy, less water, and fewer resources.
+
+Meanwhile, AI itself is helping engineers optimize chip layouts, cooling systems, electrical distribution, and thermal management faster than human teams could accomplish alone. In other words, the same technology driving increased computational demand is simultaneously helping solve the engineering challenges created by that demand.
+
+That feedback loop matters.
+
+Innovation is now compounding upon innovation.
+
+None of this means we should ignore today’s environmental costs. Communities deserve transparency. Governments should evaluate local water availability. Companies should be held accountable for sustainability claims.
+
+But neither should we assume today’s bottlenecks define tomorrow’s possibilities.
+
+The history of technology suggests the opposite.
+
+Every major technological revolution begins by exposing constraints. Those constraints create incentives for innovation. Innovation removes many of those constraints, often faster than public perception catches up.
+
+The debate surrounding AI data centers should absolutely continue.
+
+It just needs to include both sides of the equation.
+
+The costs are real.
+
+The breakthroughs are real.
+
+As someone who has spent the last several years immersed in the world of exponential technologies, I don’t see today’s data centers as the destination. I see them as a bridge.
+
+The mistake is assuming today’s bottleneck will remain tomorrow’s bottleneck.
+~TheMacroSift 
+
+#AI #DataCenter #ExponentialEra #MacroSift",True,True,6.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2044836806393801,2026-06-09 20:43:39+00:00,In These Times,photos,"Data centers are creating some unexpected political alliances.
+
+In Michigan, anarchist organizers, union activists and residents with Trump signs in their yards are organizing against a proposed data center linked to Los Alamos National Laboratory. Their concerns include higher utility bills, water use, noise, the destruction of a local park and the possibility that the facility could become a military target.
+
+The coalitions are imperfect. But as one organizer told reporter, Paul Messersmith-Glavin: “I want to build trust and bravery across a broad group of people so that we are ready for the next thing we need to fight.”
+
+https://inthesetimes.com/article/data-centers-resistance-labor-trump 
+
+#anarchist #datacenters #datacentersolutions #DataCenter",True,True,8.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1745454970136302,2026-03-25 22:32:54+00:00,"Real talk with Jc Frias: News, Culture, and Immigration",videos,"These AI data centers require nonstop power to run high intensity chips and cooling systems and utilities are building new infrastructure to keep up. That cost does not disappear. It gets pushed onto everyday people through higher monthly bills. Reports show communities near these facilities seeing sharp increases and in some cases triple digit jumps over time. That is not a coincidence. That is demand being shifted down to consumers while corporations scale profits 💰
+
+#AI #EnergyCrisis #BigTech #aoc #datacenter 
+
+AI data centers energy costs United States electricity bills Big Tech infrastructure demand Amazon Google Microsoft power grid utilities cost increase data centers Texas Virginia Arizona energy consumption AI impact on consumers",True,True,6.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1646748783085354,2026-05-15 22:49:10+00:00,Guerrilla Publishing- Ron Durbin,albums,"⚡️ CLAREMORE — WE NEED YOUR HELP BEFORE MONDAY ⚡️
+
+Quick update on what happened in court today, and a direct ask. 👇
+
+🏛️ Today at the Rogers County Courthouse, we presented our emergency case against the City of Claremore — challenging the Project Mustang data center process, the trespass notices issued against me and Lee, and the City's repeated violations of the Oklahoma Open Meeting Act.
+
+More than 50 of you showed up on less than 24 hours' notice. I can't tell you what that meant. 🙏
+
+Nobody showed up for the City. Not one citizen.
+
+⚖️ The hearing did not go the way the law and the evidence demanded it should.
+
+The judge had not read the supplemental pleadings or the motion to disqualify the City's attorney that we filed this morning.
+
+She refused to allow me to call City Manager John Feary to the stand — even though he was sitting right there in the courtroom as a named defendant.
+
+She allowed the City's attorney to argue against us even though the Claremore City Council never held a single meeting to authorize him to do so.
+
+And when I raised the fact that citizens were locked out of the May 4 Council meeting with no overflow room, no audio relay, no accommodation of any kind, she suggested the online broadcast was enough.
+
+🚫 It is not enough.
+
+The Open Meeting Act does not have a ""watch it on your phone"" exception.
+
+📝 I will be filing a motion to recuse on Monday morning and asking the presiding judge to take this case.
+
+⏰ But the Council vote on Project Mustang is Monday at 6:00 PM. We do not have time to wait. ⏰
+
+📧 Tonight I sent a detailed email to Oklahoma Attorney General Gentner Drummond, attaching the new evidence — including the text messages where City Manager John Feary admits to organizing back-to-back ""meet and greets"" with the developer in two separate groups of councilors, deliberately split to dodge a quorum, and including the handwritten list of 39 citizens locked out of the May 4 meeting.
+
+I asked him to step in before Monday's vote.
+
+👉 Here is where you come in. 👈
+
+Please consider sending the Attorney General a short, respectful email asking him to get involved before Monday at 6:00 PM.
+
+His office exists for exactly this kind of moment.
+
+He works for you. 🇺🇸
+
+📧 [gentner.drummond@oag.ok.gov](mailto:gentner.drummond@oag.ok.gov)
+
+A few things to keep in mind when you write:
+
+✅ Be respectful. Be the kind of citizen we want our government to listen to.
+
+✅ Be brief. A few sentences is plenty. Tell him who you are, where you live, and why you care.
+
+✅ Be specific. Reference Durbin v. City of Claremore, Rogers County Case No. CV-2026-100, and the Project Mustang Council vote set for Monday, May 18, 2026 at 6:00 PM.
+
+✅ Ask. Politely ask him to intervene before the Monday vote.
+
+💡 You don't need to be a lawyer. You don't need to know every detail. You just need to be a citizen who cares enough to ask for help.
+
+📂 The case file, including every pleading filed today, is publicly available on OSCN:
+🔗 https://www.oscn.net/dockets/GetCaseInformation.aspx?db=rogers&number=CV-2026-100&cmid=402811
+
+🙌 To the 50+ of you who stood with us today — thank you.
+
+Several of you asked me whether I had heard from the Attorney General, and asked me to reach out to him on your behalf.
+
+I promised I would. I have.
+
+Now I'm asking you to do the same, in your own words. ✍️
+
+🌎 This is bigger than Claremore.
+
+The decisions being made in our City Hall affect ratepayers across every GRDA community — Rogers County, Yukon, Coweta, Sand Springs, Inola, and beyond. ⚡
+
+When a City Manager can split a council into groups to avoid a public meeting, lock citizens out of a hearing on the largest economic development decision in a generation, and trespass the people asking questions — every Oklahoman should care.
+
+📨 Email the Attorney General. Be respectful. Be brief. Ask him to step in before Monday at 6:00 PM. 📨
+
+📍 If you can come to City Hall, 104 S. Muskogee Ave., Claremore, on Monday at 6:00 PM — please come. Bring a friend. Bring three. Show up the way you showed up today. 💪
+
+We are not going anywhere. Neither should you. 🇺🇸
+
+— Ron
+
+🔁 Please share. The more Oklahomans the AG hears from before Monday, the better.
+
+#Claremore #ClaremoreOK #RogersCountyOK #Oklahoma #OklahomaPolitics #OpenMeetingAct #Transparency #ProjectMustang #DataCenter #GRDA #StopProjectMustang #WeClaremore #LocalGovernment #CitizensFirst #AccountabilityNow #OklahomaAG #GentnerDrummond #OkLeg #ProtectClaremore #TulsaArea",True,True,915.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2535603373605974,2026-02-24 03:34:22+00:00,Slashdot,links,"An anonymous reader quotes a report from the Guardian: When two men knocked on Ida Huddleston's door last May, they carried a contract worth more than $33m in exchange for the Kentucky farm that had fed her family for centuries. According to Huddleston, the men's client, an unnamed ""Fortune 100 company,"" sought her 650 acres (260 hectares) in Mason county for an unspecified industrial development. Finding out any more would require signing a non-disclosure agreement. More than a dozen of her neighbors received the same knock. Searching public records for answers, they discovered that a new customer (PDF) had applied for a 2.2 gigawatt project from the local power plant, nearly double its annual generation capacity. The unknown company was building a datacenter. ""You don't have enough to buy me out. I'm not for sale. Leave me alone, I'm satisfied,"" Huddleston, 82, later told the men.
+
+As tech companies race to build the massive datacenters needed to power artificial intelligence across the US and the world, bids like the one for Huddleston's land are appearing on rural doorsteps nationwide. Globally, 40,000 acres of powered land &ndash; real estate prepped for datacenter development -- are projected to be needed for new projects over the next five years, double the amount currently in use. Yet despite sums that often dwarf the land's recent value, farmers are increasingly shutting the door. At least five of Huddleston's neighbors gave similar categorical rejections, including one who was told he could name any price.
+
+In Pennsylvania, a farmer rejected $15m in January for land he'd worked for 50 years. A Wisconsin farmer turned down $80m the same month. Other landowners have declined offers exceeding $120,000 per acre -- prices unimaginable just a few years ago. The rebuffs are a jarring reminder of AI's physical bounds, and limits of the dollars behind the technology. [...] As AI promises to transcend corporeal fallibility, these standoffs reveal its very physical constraints -- and Wall Street's miscalculation of what some people value most. In the rolling hills of Mason county and farmland across America, that gap is measured not in dollars but in something harder to price: identity.
+
+Read more of this story at Slashdot.",True,True,22.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1027046586813012,2026-07-17 05:58:08+00:00,BZ Watchdog,photos,"-PUBLISHED BY Ron Helms 
+WITH WATCHTOWER CI
+7/17/2026
+
+Money From Three Directions
+Hubbard has about 1,400 residents and roughly $1.73 million in its general fund. The money now moving into and around this Hill County town runs into the tens of millions, and it is arriving from three directions at once: a private data center is paying for pieces of the city government, voters have approved a $7.6 million school bond, and the city has borrowed millions more on its own.
+
+Near the top of two of the institutions handling that money sits the same man.
+
+The Man in the Middle
+Jason Patrick is Hubbard's city manager. He is also its police chief. He is, at the same time, president of the Hubbard Independent School District's board of trustees. One person holds the senior administrative job in the city, runs its police department, and chairs its school board.
+
+I have spoken with Patrick on the record several times this year, by phone in March and in person at City Hall in July. He is enthusiastic about what is happening. ""It is a celebration in this community,"" he told me. ""I kid you not."" He called the data center ""the monstrosity, the huge hyperscale, largest project in the United States,"" and he framed its spending as simple neighborliness. ""So why wouldn't they want to pour something into the nearest community?"" he said.
+
+The Data Center's Money
+The company is Nexus Data Centers, building what the City of Hubbard itself has called a ""multi-billion-dollar data center facility"" on State Highway 171 just outside town. Its planned power draw, roughly 600 megawatts, would be enough to run a small city on its own.
+
+Nexus is not taking a tax break. It told Hill County it preferred ""direct investment rather than reduced tax obligations."" That investment, announced in February as a $50 million ""Community Partnership Program,"" now reaches into much of the city's budget. Working from the city's own resolutions, its council minutes, and Nexus's letters, I count commitments that include:
+
+$5,500 for swimming-pool and concession equipment
+$1,000 a month to the recreation center's programs, and $500 a month to the food pantry
+three new police officers, with Patrick telling the council the funding would be ""indefinite for salary and benefits,"" and roughly $246,600 for three patrol vehicles and equipment
+$247,381 for two brush trucks for the volunteer fire department, routed through Nexus's charitable arm, Nexus Hub Incorporated
+$250,000 to buy the city's Civic Center, and a new City Hall and police station built to a $2 million ""cost basis""
+$2,689,500 toward a citywide water-line replacement
+Two arms of the town's public safety now sit on that list: the police department, which is getting officers whose pay Nexus has agreed to cover, and the volunteer fire department, which is getting its trucks. Every donation letter carries the same sentence: the money ""is not tied to any agreement, permit, approval, or obligation on the part of the City."" I quote it here exactly as Nexus wrote it.
+
+The Civic Center sale has already closed. Hill County records now list the property at 300 North Magnolia under a Nexus company, Nexus Land Holdings.
+
+The Water Line, and a Question
+The water line is the largest single item. The full project was awarded at $4,387,500. The city has paid the contractor about $1.7 million; in June, the city council voted to enter an agreement under which Nexus would pay the remaining $2,689,500 directly to the contractor. Patrick calls it a bargain. ""A hell of a deal for the city,"" he said. ""He saved us almost $4 million.""
+
+For that same water-line project, the city also borrowed about $4 million through a 2025 certificate of obligation, a kind of municipal debt that does not require a public vote. If Nexus is covering the largest share of the contract, what is the borrowed money paying for? I have asked, and I do not yet have a clear answer.
+
+The School's Money
+While the city's spending runs on data-center dollars and borrowing, the school district has been raising money the older way, by asking voters.
+
+Last November, Hubbard ISD put a $7.6 million bond on the ballot for athletic facilities, a new agriculture building, and repairs to the elementary school. It failed on an exact tie, 178 to 178. Over the winter a group of parents who called themselves ""Bonding with the Jags"" handed out fliers and held town halls, and in May the same $7.6 million bond passed.
+
+Patrick is the president of the board that put it forward. He is also, as noted, the city manager and the police chief. None of this is hidden. Put together, it means the person atop the city's payroll and its police force also leads its school board, in a year when both institutions are moving more money than the town has seen in a long time.
+
+A Footprint Bigger Than the Town
+Set all of this against the size of the place. Hubbard is two square miles. The land assembled around it is bigger than the town. According to Hill County appraisal records, Nexus companies own more than 3,100 acres in and around Hubbard, spread across dozens of parcels and appraised at over $30 million. That is close to five square miles, more than twice the footprint of the town itself.
+
+The town those acres surround is small by every measure. Hubbard's median household income is about $47,000. Its general fund is smaller than the water-line contract, smaller than the school bond, and a fraction of the data center's community program. Residents' own costs have gone up, too: last fall the city raised its tax rate to about $0.88 per $100 of value, from about $0.81, which the city's own tax ordinance records as a 25 percent effective tax increase, measured against a revenue-neutral rate.
+
+Patrick expects the site to bring far more than land and money. He told me the jobs pay ""$27 an hour with 30 hours mandatory overtime,"" bringing home ""$8,000 to $10,000 a month,"" in a place where some workers, he said, ""were working $7 an hour."" He also expects a crowd: ""6,000 people in less than 45 days,"" he told me, and ""15,000 people out there working by January."" Those are his projections, not numbers I have confirmed, and 15,000 workers would be more than ten times the population of the town they would be working next to.
+
+A Question About Cameras
+In November 2025, a data-center town hall was held in Hubbard. According to the city secretary's written answer to a records request, ""The Data Center requested no recordings,"" and no audio or video of that meeting exists. This year, Nexus is offering to pay for the equipment to put the city council's own meetings on permanent public video. I do not know what changed between the two.
+
+How I Got Here
+I should say plainly where this comes from. In the fall of 2025, I started asking the City of Hubbard a simple question: why did the data center's town hall not allow cameras? Soon after, I was blocked from the city's Facebook page. Around the same time, I noticed someone else filing public-records requests with Hubbard, a man named Basil Zangare who publishes as BZ Watchdog. I reached out. We work differently, and we do not agree on everything, but we share one goal, accountability in Texas local government. We began comparing notes, sat in on council meetings together in nearby Hillsboro and Whitney to get to know each other, and started building a record.
+
+Between us, we now hold more than a thousand records and documents on Hubbard. Some of what we asked for came back the same way: no records responsive to your request, in cases where our reading of Texas law says the records should exist.
+
+Before I Published This, I Talked to Basil
+On July 16, the evening before this went out, I interviewed Basil about what he has been finding on the ground, so I could put some of it on the record.
+
+Basil has been going business to business in Hubbard with a simple question: has the data center brought you more customers? He told me the answer was almost always no. ""All of the small businesses have told me they have not seen any increase in traffic from the data center business,"" he said. The only exception among the storefronts was a national chain, not one of the local shops. His read: ""The business boom that Jason Patrick's talking about is the big corporation chains, not the small mom-and-pop places. Those places are not getting the increase in business that they were told they were going to get with the deal of the data center coming to Hubbard.""
+
+The one group he sees actually gaining is the food trucks. ""The food truck businesses may be getting all the business,"" he told me. That is worth setting against what the council did on June 20. The same night it adopted an ordinance restricting where food trucks can operate, it denied one vendor's application to run a food truck on leased land, five votes to none. The one kind of business that seems to be thriving is also the one the city has just moved to control more tightly.
+
+Basil told me the owners he spoke with had concerns about going on the record and did not want to be named, in a small town where one man holds several of the top offices. I am not naming any of them. I cannot independently vouch for every conversation he had. What I can tell you is what he told me, on the record: most of Hubbard's storefronts are not seeing the boom the city is celebrating.
+
+In fairness to Patrick's side of it, this is a snapshot of the town as it is today. The data center is still ramping up, and Patrick expects thousands more workers to arrive in the coming months; if they do, the businesses seeing little now could see more. Many of the improvements are long-term as well, the water lines, the new buildings, the school upgrades, the kind that take years to show their full effect.
+
+When I Asked to Talk, the City Stopped Talking
+I have spent more time with Jason Patrick than most reporters get, two conversations by phone and two more in person, the most recent this month at City Hall. I appreciate that he has been willing to sit with me at all, because the city as an institution has not.
+
+In April, the day after I asked to interview Patrick, the City Secretary wrote back: ""per our attorney's directive, at this time the City of Hubbard will not be participating in interviews."" I filed a public-records request for that directive and the communications behind it. It is past its legal deadline, with no response.
+
+Patrick talked to me anyway. When I saw him this month, he raised the lawyers himself. He told me he did not agree with the advice to stop talking, ""do I agree with it? No,"" but that he had to follow what the attorneys who ""represent this city that I work for"" told him. When I said that he serves the constituents, not the city attorney, he answered, ""Yes, sir.""
+
+The records we hold leave gaps in the timeline of what has happened in Hubbard, and when I started pressing on those gaps, the response was not answers. It was a lawyer's instruction that the city would not talk to me. From the outside, a city that goes quiet the moment the questions get harder invites the very questions it is trying to avoid.
+
+What Comes Next
+I wanted to settle this directly, with the city and with Jason. The attorney's directive has effectively taken that off the table, and left us to chip away at it through records requests instead. I have asked to sit down with Patrick on camera and put the remaining questions to him directly, on the record. Until the city's attorney allows that, I will keep working through what we have found in public, one article at a time.
+
+For Basil, the Hubbard work is finished. ""I'm done with my Hubbard investigation,"" he told me. ""I handed it off to you to take care of it and pass the torch."" He is moving on to other work, and I am carrying the Hubbard reporting forward. This is the first of several articles. Over the coming weeks I will lay out what the investigation has documented.
+
+I want to be plain about what this is and what it is not. I am not accusing anyone in Hubbard of a crime, and I am not alleging misconduct. What Basil and I have done is gather the public record and identify questions we believe deserve answers. We have reached the point where it is time to put those records in front of the people who live in Hubbard and pay for it, and to ask for their help: answering the questions, filling the gaps we have not filled, and correcting anything we have gotten wrong.
+
+I am not trying to make Hubbard look bad. If the city's attorney lets Patrick answer on camera, I will put every one of our questions to him directly. Until then, stay tuned. There is a lot to cover.
+
+A Disclosure
+There is one thing readers deserve to hear from me directly. Basil Zangare, who publishes as BZ Watchdog, is planning a run for Hill County Commissioner, Precinct 3. In the weeks ahead I plan to interview Basil on the record about how his journalism ties to his run for office, what led him to become a candidate, and what he wants the public to understand about how his candidacy relates to his work under BZ Watchdog. Those strike me as fair questions, and I intend to ask them plainly. Look for that conversation soon.
+
+#hubbardtx #HubbardTexas #nexusdatacenter #JasonPatrick #datacenter #texasdatacenters #HillCounty #localgovernment #GovernmentTransparency #PublicAccountability #CommunityAwareness #CitizenJournalism #PublicRecords #FollowTheMoney #WatchdogJournalism #BZWatchdog #SunlightIsTheBestDisinfectant #OurCommunityDeservesAnswers",True,True,7.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1780305276304644,2026-06-08 13:22:01+00:00,Donald Tresohlavy,reshare,"💰 ""If you want to be a good neighbor, pay your taxes.""
+
+One resident challenged data center representatives on tax incentives and what it means to be a good corporate neighbor.
+
+The discussion quickly turned into one of the most interesting exchanges of the evening.
+
+The answer may surprise you.
+
+Watch the clip and decide for yourself.
+
+#MassenaNY #DataCenter #Taxes #CommunityMeeting #NorthCountryNY #TheDailyDoseOfDon",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,4426010650878969,2026-08-09 07:38:48+00:00,Elite Billionaire,photos,"Humans lived for thousands of years without computers, servers, or data centers. But there has always been one thing we could never live without: clean water. 💧
+
+As artificial intelligence continues to grow, enormous data centers are being built to handle the computing power behind it.
+
+Inside these facilities, thousands of powerful processors work nonstop. That creates intense heat, and keeping those machines cool can require large amounts of water.
+
+This is where a growing conflict begins.
+
+In places already dealing with drought or limited water supplies, communities are asking an uncomfortable question:
+
+Should more water be used to support the rapid growth of AI, or should it be reserved for the people who depend on it every day?
+
+Technology companies argue that data centers are becoming essential infrastructure and that newer cooling systems can reduce their water use.
+
+But critics say no industry should put additional pressure on communities struggling to secure something as basic as drinking water.
+
+And as AI becomes more powerful, this conversation is only going to become more important.
+
+Because behind every AI model, every powerful server, and every piece of advanced technology are resources that aren't futuristic at all:
+
+Electricity. Land. Water.
+
+AI may be building the future.
+
+But that future still depends on the same basic resources humanity has always needed to survive. 🌍
+
+#datacenter #cleanwater",True,True,136.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,4006922442774623,2026-05-31 19:27:02+00:00,The Tree Rv LLC,photos,"🌳☀️ Summer is here, and so are our NEW Long-Term Rates! ☀️🌳
+
+If you’re tired of crowded RV parks and looking for a place where you can truly relax, we’d love to welcome you to The Tree Rv LLC.
+
+Nestled among beautiful pecan and mesquite trees and surrounded by nature, our spacious sites offer a peaceful setting to call home. Enjoy your morning coffee under the canopy, watch local wildlife, and unwind after a long day in a place designed for comfort and simplicity.
+
+✨ Full Hookups
+✨ 30 & 50 Amp Service
+✨ City Water & Sewer
+✨ Utilities Included
+✨ Spacious Sites
+✨ Quiet Country Atmosphere
+
+At The Tree RV LLC, you’re more than just a guest—you’re part of our community.
+
+📍 Anson, Texas
+📞 325-721-4101
+
+Your Home Away From Home 🌿
+
+#rvpark
+#abilenetexas
+#anson
+#hawley
+#haskell
+#stamford
+#hamlin
+#merkel
+#college
+#datacenter
+#solar",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1537850194488116,2026-07-01 12:06:02+00:00,Coyote  AI,videos,"SAN MARCOS BECOMES THE FIRST TEXAS CITY TO BAN DATA CENTERS. 
+
+An absolute infrastructure explosion has just hit a legal brick wall in the Lone Star State, completely turning the tables on how multi-billion dollar tech conglomerates can expand in the Southwest.In a first-of-its-kind move testing local municipal authority, San Marcos has officially utilized its local zoning laws to enact a complete ban on new data center developments. This historic municipal block arrives as a massive environmental and regulatory backlash sweeps the state. Just this week, Governor Greg Abbott escalated his policy stance during a stop in East Texas, calling for a sweeping prohibition to block tech companies from building AI data centers inside rural Texas neighborhoods. With a brand new Texas Tribune data analysis revealing that nearly 50% of the 248 planned data center developments across the state are explicitly targeting unincorporated, unregulated rural lands to avoid city oversight, local communities and state leaders are aggressively uniting to reclaim control over their grids, water supplies, and neighborhoods.  
+
+Watch the full video to see the raw geographical and legal metrics behind this historic local resistance, and how it is permanently altering the Southwest tech boom.
+
+ CHALLENGE: Do you support local Texas cities using strict zoning laws to shut out Big Tech infrastructure, or will these aggressive bans kill our regional economic growth? Drop your hard take below!
+
+#TexasNews #SanMarcos #ERCOT #DataCenter #GregAbbott #TexasTribune #GridReliability #TexasEconomy #ArtificialIntelligence",True,True,5.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1039950412373985,2026-06-18 14:20:21+00:00,Bayou Boyz,videos,Entergy will spend $43B through 2029 to upgrade electrical systems in Louisiana. The ratepayers will fund 80% of this cost on higher electricity bills with surcharges. #l #Datacenter #electricity,True,True,60.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1025182830288942,2025-09-03 21:00:31+00:00,Arizona Public Media,links,"Despite being rejected by the Tucson Mayor and Council, backers of the proposed Project Blue datacenter are moving forward, after filing an energy supply agreement with the Arizona Corporation Commission, the state’s utilities regulator on Monday.",True,True,23.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,974121715108286,2025-10-14 21:01:20+00:00,Asian Bulletin,photos,"Google’s parent company, Alphabet, announced a $15 billion investment to build a massive AI data hub in Visakhapatnam, Andhra Pradesh, marking its largest AI facility outside the United States.
+The new centre will be part of Google’s global network of AI hubs across 12 countries and will combine advanced cloud infrastructure with renewable energy systems.
+According to Thomas Kurian, CEO of Google Cloud, the investment will be spread over five years and will play a major role in expanding Google’s AI capabilities in Asia.
+Alphabet CEO Sundar Pichai said the facility will help accelerate AI innovation and digital growth for Indian enterprises and users.
+The project aligns with Andhra Pradesh’s goal to develop 6GW of data centre capacity by 2029, supported by incentives such as subsidised land and electricity.
+As India’s data centre industry surpasses 1GW in capacity, the investment positions the country as a global hub for cloud computing and artificial intelligence.
+
+#Google #Alphabet #AI #India #TechNews #DataCenter",True,True,3.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1045986891291587,2026-06-16 16:33:18+00:00,High Plains Observer,photos,"Power, Growth, and Questions Facing Rural Texas by Grace Pshigoda —Spearman City Councilman
+https://highplainsobservers.com/power-growth-and-questions-facing-rural-texas-p43551-1.htm
+Last week, I attended the 2nd Annual Permian Power Conference in Midland, Texas wearing several hats. I attended as a utility director for my company, city council member, someone interested in economic development, and a landowner whose family has a long-term and deeply personal interest in agriculture and water resources.
+The conference brought together representatives from the energy, technology, infrastructure, and economic development sectors. Discussions ranged from oil and natural gas production to transmission infrastructure and data centers. A recurring theme was how Texas will meet growing electricity demand in the years ahead.
+For rural communities, this raises a critical question: What role, if any, will small towns play as energy needs evolve? More importantly, what will this mean for the next generation of Spearmanites who will live, work, and raise their families here? What opportunities will the Henrys and Theos of the world have, and how do we prepare them to thrive in an economy increasingly shaped by artificial intelligence, advanced technology, and a rapidly changing energy landscape?
+________________________________________
+Growing Demand for Electricity
+Electricity demand in Texas has been steadily increasing over the past several years, reflecting both population growth and economic expansion. Peak electricity demand reached approximately 79,000 megawatts in summer 2023, up from around 73,000 MW in 2018, according to ERCOT. This growth places new demands on the state’s generation capacity, transmission lines, and distribution systems.
+ERCOT forecasts that electricity demand could grow by 3–4% annually over the next decade under moderate growth scenarios. Several factors contribute to this trend:
+• Population growth: Texas added over 4 million residents between 2010 and 2020, bringing the population to roughly 30 million. The Texas Demographic Center projects the population could exceed 35 million by 2030, which increases demand for residential electricity, transportation electrification, and public services. 
+• Industrial expansion: Manufacturing, petrochemical production, and other industries continue to expand in Texas, adding significant electricity load to the grid. Some industrial processes, such as electrified production methods, are more energy-intensive than traditional methods. 
+• Electrification of transportation and other sectors: As electric vehicles become more common, and as other sectors shift from fossil fuels to electricity, additional strain is placed on the grid, especially during peak usage periods. 
+• Data centers and digital infrastructure: The rise of large data centers to support cloud computing, financial systems, and artificial intelligence applications is another major driver of electricity growth. These facilities operate 24/7 and require reliable, high-capacity power. Texas is now the second-largest state in the U.S. for data center power consumption.
+This growth is not uniform across the state. Urban and suburban regions are experiencing rapid increases in residential and commercial demand, while rural areas may see new industrial or technology-based loads, such as data centers, that can significantly affect local infrastructure. For rural communities, these trends raise questions about whether existing electric distribution networks are adequate and what upgrades or new investments might be required.
+Planning for future demand also requires attention to grid reliability, particularly in regions with extreme temperatures or limited transmission infrastructure. Meeting increasing electricity needs will involve a combination of expanding generation capacity, modernizing the transmission network, and integrating new technologies such as energy storage, demand response programs, and renewable energy sources.
+In short, Texas’ growing population and economy are driving electricity demand to record levels, and careful planning will be necessary to ensure that both urban and rural communities have reliable, affordable power in the years ahead.
+Regulation
+In Texas, data centers are regulated primarily through the state’s energy and utility framework rather than by a single dedicated agency. The Public Utility Commission of Texas (PUCT) establishes the rules for how large electricity users—such as data centers—connect to and pay for access to the power grid, while the Electric Reliability Council of Texas (ERCOT) operates the grid and manages system reliability. It is important to note that the Texas Panhandle is outside of ERCOT and instead operates within the Southwest Power Pool (SPP), which is regulated at the federal level by the Federal Energy Regulatory Commission (FERC).
+Recent policy discussions have highlighted growing concerns about the impact of large data centers on electricity costs and infrastructure. According to reporting by Houston Public Media, Governor Greg Abbott directed the PUCT and ERCOT to take steps to ensure that data centers do not shift the cost of new infrastructure onto residential customers and instead pay for the facilities required to support their operations. The governor also called on these agencies to review their authority and identify additional actions to protect Texas residents and maintain grid reliability.
+In addition to agency oversight, the Texas Legislature plays a critical role by passing laws such as Senate Bill 6, which establishes requirements for large-load electricity users. Local governments may also be involved through zoning, permitting, and water use considerations. Together, these layers of regulation are continuing to evolve as Texas responds to rapid growth in energy demand and data center development. In response to concerns about electricity demand, water use, land use, and infrastructure impacts, some local governments across the United States have adopted temporary moratoriums on new data center development while they evaluate zoning regulations, utility capacity, and potential community impacts. Supporters argue that these pauses allow communities time to gather information and develop appropriate policies, while opponents contend that moratoriums may discourage investment and economic development.
+
+________________________________________
+Water Use and Rural Concerns
+As someone whose family depends on agriculture, water was one of the topics I paid the closest attention to.
+Water availability is a significant concern in the Texas Panhandle, where many communities and agricultural operations depend heavily on the Ogallala Aquifer, the region's primary groundwater source. Groundwater levels have declined across much of the aquifer over time, with some areas experiencing declines of up to two feet per year due to irrigation and other uses. As a result, understanding the water demands of potential development projects—including data centers and other industrial facilities—remains an important consideration for rural communities
+For communities considering future development opportunities, understanding local water impacts remains an important part of the conversation.
+Experts did mention the pressure for datacenter companies to use waterless designs or specific cooling technology that does not require as much water for cooling. However, these concepts vary and are not regulated. 
+
+________________________________________
+Workforce Considerations
+Meeting growing energy and infrastructure needs will require a skilled workforce. Texas currently faces shortages in technical and skilled trades, including electricians, line workers, engineers, and data center technicians. The Texas Workforce Commission projects job growth of 10–15% in energy, technology, and infrastructure industries over the next decade.
+These pressures are already evident. As experienced workers retire, employers are competing for a limited pool of qualified replacements, while expanding investments in power generation, transmission, manufacturing, and data centers are increasing demand for technical and trade-related occupations.
+The need extends beyond construction. Modern energy systems and data centers require workers trained to operate and maintain advanced equipment, cybersecurity systems, cooling technologies, and electrical infrastructure. As technology evolves, employers are increasingly seeking candidates with specialized technical training alongside traditional trade skills.
+For rural communities, this presents both challenges and opportunities. Smaller towns often struggle to attract and retain skilled workers, especially when larger metropolitan areas offer broader employment options. Factors such as housing availability, access to training programs, and overall quality of life all play a role in where workers choose to live.
+At the same time, rising demand creates opportunities for local residents. Partnerships between schools, community colleges, trade programs, and industry employers can help prepare workers for careers that offer competitive wages and often do not require a four-year degree.
+As Texas continues to grow, developing and retaining a skilled workforce will be just as important as building new infrastructure. Workforce readiness may ultimately determine whether communities are able to benefit from future economic opportunities. 
+________________________________________
+Considerations for Rural Communities
+The conference highlighted how energy demand and infrastructure growth could affect rural areas:
+Potential challenges:
+• Maintaining and upgrading electric infrastructure 
+• Ensuring reliable and affordable power service 
+• Addressing workforce shortages in skilled trades and technical occupations 
+• Balancing economic growth with stewardship of land and water resources 
+Potential opportunities:
+• Construction and infrastructure investment 
+• Expansion of local tax bases 
+• Workforce development and training programs 
+• Increased interest in rural locations that offer available land and access to energy resources 
+The extent to which any community experiences these opportunities or challenges will depend on local conditions, available infrastructure, and future market developments.
+
+________________________________________
+The Importance of Staying Informed
+Collaboration among utilities, energy producers, technology companies, landowners, local governments, and state policymakers will be essential. Decisions regarding power generation, transmission infrastructure, and resource management will influence communities across Texas for years to come.
+As a city council member, my goal in sharing these observations is not to advocate for a particular position, but to provide information about ongoing discussions and how they relate to rural communities.
+The question I kept asking throughout the conference was simple: ""What will the future of the Texas Panhandle look like for my children?"" The answer I came away with was equally clear—we must prepare the next generation for an energy landscape that will look completely different from the one we know today. Because of that, it is important for local leaders and residents to remain informed about issues that could affect their communities.",True,True,39.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1644598856625878,2026-05-13 21:57:41+00:00,Lewis Sokolowski,photos,"🚨 A proposed #DATAcenter discussion in Manistee County is already sparking major debate across Northern Michigan — and people are VERY divided.
+
+Right now, discussions are centered around a possible large-scale data center project on roughly 150 acres in Stronach Township near Manistee. No official deal has been announced yet, and no tech company has publicly been named, but the idea alone packed a recent township meeting with more than 225 residents voicing concerns and opinions.
+
+Supporters say projects like this could bring:
+✅ New jobs and construction work
+✅ Increased tax revenue for the area
+✅ Infrastructure improvements
+✅ Economic growth and future technology investment
+✅ Potential long-term business opportunities for Northern Michigan
+
+But critics are raising major concerns about what a massive #DATAcenter could mean for the region:
+⚠️ Huge electricity demands that could strain the power grid
+⚠️ Concerns over rising utility costs for residents
+⚠️ Heavy water usage needed to cool large server facilities
+⚠️ Noise, lighting, and loss of Northern Michigan’s rural character
+⚠️ Environmental impacts on wildlife and natural resources
+⚠️ Fear that large corporations could permanently change the area
+
+Many residents are especially worried because Northern Michigan’s identity is deeply tied to clean water, forests, small towns, and open space. Others argue Michigan needs to evolve economically and compete for future technology investments before opportunities go elsewhere.
+
+No matter where people stand, one thing is clear… this conversation is only getting started.
+
+💬 Would YOU support a major #DATAcenter project in Northern Michigan?
+
+💬 Do the potential jobs and economic growth outweigh the possible environmental and community impacts?
+
+💬 And how much development is TOO much before Northern Michigan starts losing what makes it special?",True,True,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,927686633734192,2025-06-16 06:00:04+00:00,PNG Dataco,photos,"Exciting Milestone for Click Network!
+
+We’re thrilled to celebrate Click Network, one of PNG DataCo’s newest ISP Resellers, making waves in the ICT SME sector! 🙌
+
+Mr. Yuwak Tau, Owner and Managing Director, proudly made his first payment of K40,000.00 at PNG DataCo’s Commercial Conference Room, clearing 4 months’ rental.
+
+Click Network’s journey kicked off with their first client in October 2024, securing a 20Mbps high-speed dedicated wholesale Internet access via fibre. As an incentive, DataCo waived the K10,000.00 one-off fiber delivery charge and provided 3 months’ free rental (Nov 2024-Jan 2025) for their first client—a perk still available to all ISP Resellers to support operational sustainability.
+
+With two clients already onboard, Click Network is also the first Reseller ISP to leverage PNG DataCo’s Datacenter cloud services for email and DNS hosting. This partnership is paving the way for local innovation! 
+
+The demand for ISP Reseller services is soaring, and we’re proud to see locals taking back PNG in the ICT SME space. Here’s to more growth, partnerships, and success!
+#ClickNetwork #DataCoISPReseller #DataCo #ICTSME #TakeBackPNG",True,True,247.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1369711962025291,2026-02-16 09:02:09+00:00,Sammy Chisholm Hatfield,videos,"#REPOST @kevinhfoster with @download_repost_pro - A public hearing is happening in Salem tomorrow at 8AM. I can’t guarantee this would be used to build data centers, but the loophole is there. 
+
+Subscribe to my Substack to support me wading through the insanity of these tax breaks. 
+
+#oregon #politics #news #portland datacenter",True,True,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2227383084775446,2026-07-21 00:39:52+00:00,Tracie Thessen,photos,"Mark of the beast is transhumanism combined w AI
+#RFID #5G #Flock #datacenter 
+RFID is the beginning.  Jared kushners baby.  Everyone thinks Bill Gates.  But poor Billy lost the patent to Kushners Lucent technologies after 2 decades of litigation. Then they bought out Verizon wireless.  Later kushner sold 2 shares of his 51 and lucent merged with Acatel.  After that merger Acatel lucent bought At&t!  Nokia was also sold to lucent which Soros owned originally. 
+Anyone following the rabbit hole or do I need to go live?",True,True,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1414085353767005,2024-10-24 18:58:13+00:00,David Stepania,status,"The word on the street in the SF Bay area is that most jobs will become obsolete in the next 2-5 years, thanks to AI.
+
+Sounds crazy? 
+
+Well...
+
+Check out what the leaders, as well as the insiders from some of these top AI companies, are saying:
+
+- Anthropic's CEO Dario Amodei expects ""powerful AI"" by 2026 - we're talking systems smarter than Nobel Prize winners across biology, engineering, and math
+
+- His prediction? AI could compress the next 50-100 years of human progress into just 5-10 years (he calls it the ""compressed 21st century"")
+
+The big players aren't just talking - they're spending billions:
+
+- OpenAI: Secured $13B from Microsoft
+- Anthropic: Raised $6B+ (including $4B from Amazon)
+- Google DeepMind: $3.5B revenue in 2022, backed by Google's $200B+ war chest
+- Already poaching hundreds of top AI researchers with $1M+ compensation packages
+- Their AIs are already matching/beating human experts in coding, scientific research, and medical diagnostics
+
+Timeline? 
+
+DeepMind's co-founder expects ""human-level AI will be passed in the mid-2020s""
+
+Even Congress is waking up. Sen. Blumenthal drops this bomb: ""AGI might be here in 1-3 years""
+
+The sentiment on the street here in SF seems to think we have max of 10 years before we hit AGI.
+
+The stakes?
+
+- Potential job displacement for millions
+- Complete economic upheaval
+- And yeah, some experts are warning about ""literal human extinction"" (Helen Toner, ex-OpenAI board member)
+
+The kicker: 
+
+We aren't talking about AI pattern-matching data anymore...
+
+Amodei says AI systems will soon actively conduct research, run experiments, and direct real-world operations that are essentially a ""country of geniuses in a datacenter.""
+
+So what's Washington doing about it? 
+
+Pretty much nothing. Zero regulatory oversight of companies racing toward AGI.
+
+If they can't really tackle monopolies, I'm not too sure they'll be able to do much against AI companies that win the AI race.
+
+Seems like we'll have a double whammy on our hands soon.
+
+What's your take? 
+
+Are we ready for this massive shift?",True,True,22.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1345729673815421,2026-01-23 21:21:00+00:00,Kerry Ziegler,videos,"I know many of us have been frustrated by the lack of public response from elected officials regarding the proposed data centers.
+
+Seeing Commissioner Bill Gaughan  speak out yesterday, followed by Senator Marty Flynn  message today, is a step in the right direction.
+
+Public concerns deserve public responses.
+
+Continued dialogue, transparency, and accountability matter especially on issues that affect our water, infrastructure, property value, health, and long-term future.
+
+#datacenter #LackawannaCounty
+#localpolitics #ProtectYourHome #ProtectOurCommunity",True,True,16.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2072082470314278,2026-02-27 08:00:32+00:00,Hashem Al-Ghaili,photos,"It takes a lot of energy to train an AI — but it also takes a lot of energy to raise a child…
+
+OpenAI CEO Sam Altman is facing intense backlash after comparing the massive energy requirements of artificial intelligence to the decades of food and resources needed to ""train"" a human being.
+
+During an AI summit in India, OpenAI CEO Sam Altman sparked controversy by defending the massive energy consumption of AI models, comparing the process to the 20 years of food and resources required to ""train"" a human. While Altman admitted the industry must pivot to nuclear and renewable energy, he simultaneously dismissed concerns about water usage in datacenters as ""totally fake."" He claimed that modern facilities have moved away from evaporative cooling, calling reports of high water consumption per query ""insane"" despite growing environmental scrutiny from climate advocates and researchers.
+
+The defense comes as the International Energy Agency warns that datacenter energy use is growing four times faster than other sectors, prompting over 230 environmental groups to demand a moratorium on new construction in the US. Critics remain skeptical of the technology's benefits, noting that roughly 70% of ChatGPT usage is non-work related, which complicates arguments that the ecological cost is justified by global problem-solving. Public figures have labeled Altman’s rhetoric ""dystopian,"" arguing that equating the human experience to algorithmic processing signals a disturbing shift in how tech leaders view the environmental impact of their products.
+
+source: Berger, E. (2026). Sam Altman defends AI’s energy toll by saying it also takes a lot to ‘train a human’. The Guardian.",True,True,1581.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1304280391964763,2026-08-07 14:58:18+00:00,José Alonzo,videos,"SpaceX is building new manufacturing facilities in Bastrop County to create what the tech company is calling ""AI1"" data center satellites. 
+But county officials say no development permit application has been submitted for a project of this name. 
+KVUE reached out to SpaceX six times within three weeks for comment on this project, we did not hear back by the time this report aired. 
+
+#news #SpaceX #Bastrop #AI #datacenter #tech #ElonMusk #Texas #space #artificialintelligence #datacenters #satellite #shorts #reels #fyp",True,True,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1412431364272553,2026-07-19 03:01:49+00:00,Cullen Andrew,videos,"🗣️ An entire town says ‘NO.’ So why does City Hall keep moving forward?
+
+Fort Meade joined communities across America for the National Day of Action Against AI Data Centers, and after spending some time talking with residents, it’s obvious this fight has grown into something much bigger than one development.
+
+People aren’t just questioning a hyperscale data center. They’re questioning who government is really working for.
+
+Residents shared concerns about the ongoing recall effort, allegations of intimidation surrounding citizens who have spoken out, delays in public records requests, and what they believe are conflicts of interest involving city leadership. These are serious allegations, and we’ll be digging into the records to better understand the facts.
+
+One question kept coming up over and over: Who benefits if this project moves forward and how?
+
+We, along with other residents, have been waiting months to get records that belong to the public. Notice to The City of Fort Meade - Government - We will sue if these records aren’t provided according to state law.
+
+We’re preparing a new round of public records requests focused on the mayor, the city manager, related property records, and the nonprofit connections residents have asked us to examine.
+
+Make sure you follow Watchdogs of Fort Meade - they have become one of the strongest grassroots watchdog groups we’ve seen. They’ve organized, documented, educated, and empowered neighbors to stand together. Communities across Florida (and the nation) are beginning to look at what they’re doing as a model for how citizens can hold government accountable.
+
+#ai #datacenter #development #water #wildlife #animals #sarasota #news",True,True,701.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1385092383821062,2026-07-17 00:06:08+00:00,Collin County Journal,photos,"BREAKING: TEXAS IS TRYING TO MAKE IT HARDER TO FIGHT NEW DATA CENTERS. COLLIN COUNTY NEEDS TO PAY ATTENTION.
+
+A new EPA proposal would give Texas more power to decide how much notice and public input people get before certain pollution permits are approved.
+
+That could let TCEQ make it harder for residents to protest data-center permits before projects are locked in.
+
+These permits are increasingly used for backup generators and on-site power. Texas data centers have already received permits for more than 2,100 diesel generators since 2024.
+
+Collin County is already fighting over data centers, power, water, noise, and growth.
+
+Should Texas make it easier to approve them, or should communities keep their right to fight back?
+
+Texas
+Congressman
+TedDonaldGregKenCollin
+
+#datacenter #TexasNews #collincounty #development #AIDevelopment #growth",True,True,605.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,884292824736906,2026-06-08 03:15:50+00:00,Jonathon Smith,photos,"Somebody forgot to tell Big Tech that Americans were going to fight back. And now they're finding out the hard way.
+Here's a headline the AI industry absolutely did not want trending: almost half of the data centers that were supposed to go up in 2026 have been delayed or cancelled outright. Not because the money ran out. Not because the technology failed. Because regular people in regular towns stood up at city council meetings and said no — and it actually worked.
+Let that sink in for a second.
+According to research from Sightline Climate, of the 12 to 16 gigawatts of new capacity that was announced for 2026, only about one-third — roughly 5 gigawatts — is actually under active construction right now. The rest? Stalled. Shelved. Cancelled. Sitting in a boardroom somewhere while executives try to figure out what went wrong.
+What went wrong is pretty simple: they forgot that America still has neighborhoods in it.
+And here's the part that should surprise people — the bottleneck isn't money. These companies have more money than most countries. It's not microchips either. The thing stopping billions of dollars of AI infrastructure dead in its tracks is a shortage of transformers, switchgear, and industrial batteries. The basic electrical plumbing that power companies have been ordering for decades and can't get fast enough. You can have all the ambition in the world, but if you can't get a transformer delivered, your data center is just a very expensive concrete slab.
+Combined that with communities saying no — loudly, repeatedly, and in writing — and you've got a genuine slowdown in one of the most aggressive infrastructure buildouts in American history.
+From Michigan to Maine, Georgia to North Carolina, local city councils and state lawmakers have been passing moratoriums to halt these facilities from going up in their communities. The complaints are consistent everywhere: strained power grids, rising electricity bills, and water consumption so massive it makes people's jaws drop when they see the numbers. One large data center can use as much water per day as a small city. That's not a figure the press releases tend to include.
+And the people raising these concerns aren't fringe activists. They're homeowners, parents, small business owners, and local officials who did the math and realized that a facility that creates maybe 30 permanent jobs while tripling the local power draw is not the economic miracle it's being sold as.
+Now — and this matters — this doesn't mean AI is going away. The capital behind this industry is almost incomprehensible, and the geopolitical pressure to build faster, not slower, is very real. There is a genuine global race happening right now and countries are not pumping the brakes. The opposition isn't going to stop AI development altogether.
+But what it CAN do — what it IS doing — is force better decisions about where this infrastructure lands, how it's built, and who gets a seat at the table when those decisions are made. That's not a small thing. That's actually exactly how democracy is supposed to work.
+Regular people just slowed down a multi-billion dollar industry that assumed it could build wherever it wanted without consequence. It didn't happen in a courtroom. It didn't happen in Washington. It happened in city halls across America.
+Keep showing up. Apparently it works.
+#AIDataCenters #TechNews #BigTechVsAmericans #AIInfrastructure #DataCenter #EnergyNews #CommunityPower #AINews #AmericaNews #NewsAndFacts",True,True,152.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,4449355858662580,2026-08-14 21:24:25+00:00,Jessica McBride,photos,"David Crowley SUPPORTS DATA Centers and Won’t Ban Them; He Wants #Wisconsin to be the ‘Data Hub’ for the World   
+
+#breaking #breakingnews #datacenter",True,True,153.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1416330230358159,2026-07-13 23:06:03+00:00,Real Entertainment Network,,"🌍 QUALITY TIME WITH ALAN LIVE 🔥
+Reparations, Data Centers & Regional Power: Is the Caribbean Ready?
+
+This Monday on Quality Time with Alan, we dive into the issues shaping the future of the Caribbean. From calls for justice over slavery to billion-dollar technology investments and the institutions that influence regional governance, this week's discussion goes beyond the headlines.
+
+🌍 THIS WEEK'S TOPICS:
+
+🇧🇧 Mia Mottley's Call for Slave Reparations
+Should former colonial powers finally compensate Caribbean nations for the lasting legacy of slavery? What would reparations mean for the region's future?
+
+💻 Trinidad & Tobago Data Center Deal
+Could this landmark investment position Trinidad & Tobago as the Caribbean's digital hub? We examine the opportunities, risks, and regional implications of the deal.
+
+🏛️ The Role of Parliamentary Committees
+Often overlooked but critically important—how do parliamentary committees strengthen accountability, transparency, and democracy? Are they fulfilling their purpose?
+
+🌎 Understanding the CARICOM Secretariat
+What exactly does the CARICOM Secretariat do? How much influence does it have over regional policy, economic integration, and cooperation among Caribbean nations?
+
+🔥 PLUS MORE breaking regional and international developments, audience questions, and thought-provoking analysis.
+
+Join Alan for another evening of independent commentary, informed discussion, and Caribbean perspectives on the issues that matter most.
+
+📅 Monday, July 13th, 2026
+🕖 7:00 PM EST
+📺 LIVE on Real Entertainment Network (REN)
+▶️ Streaming on YouTube & Facebook
+
+💬 We want to hear from you! Share your opinions in the comments, ask questions live, and become part of the conversation.
+
+👍 Like • 💬 Comment • 🔄 Share • 🔔 Subscribe
+
+#QualityTimeWithAlan #REN #Caribbean #MiaMottley #Reparations #CARICOM #Parliament #TrinidadAndTobago #DataCenter #Politics #CurrentAffairs #CaribbeanNews #GlobalImpact",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1447219380652269,2026-07-01 12:58:46+00:00,Matt The Welder = Matt Taylor,videos,"YOU’RE GOING TO WANT TO WATCH THIS ONE TO THE END. 👀🔥
+
+🚨 Conservation Easements… Or Data Center Subsidies? 😳👀
+Guess Who Got A Contribution From A Project Tango Property Owner. 🤯
+And They Said Data Centers Weren’t Under The Department Of Ag🤣
+
+#matthewelder #floridawater #datacenter #projecttango #water",True,True,3278.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2087569598533452,2026-07-25 08:26:04+00:00,Alisha Lange,videos,"When a resident has to explain the math to the commissioners, you already know something is off. The people of Piqua are asking basic questions about data center use, power, water, and long-term costs—and they deserve real answers, not spin. The numbers should work for residents first, not outside interests. #Piqua #PiquaOhio #DataCenter #NoDataCenter #CommunityFirst #Transparency #CivicEngagement #Ohio #ProtectPiqua #LocalGovernment #fyp #farm #farmer #rancher",True,True,193.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1575063977627892,2025-08-27 12:01:37+00:00,Representative Anna V. Eskamani,links,"""Household electricity bills have increased by 10% since Donald Trump re-entered the White House, a new report has found, with its authors highlighting the impact of the president’s datacenter boosterism and cuts to clean energy projects as part of the cause.""",True,True,124.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1036227435832712,2026-07-25 11:59:39+00:00,Krista McCatlady,reshare,"Technology enabling covert recording has spread faster than protections against harassment or non consensual filming. Recent controversies over Meta's smart glasses including reports of people using them to secretly film women for ""prank"" or pickup videos have intensified those concerns. If someone is filming you without consent, playing a Disney song in the background could trigger automated copyright detection systems on platforms like Instagram, Facebook, TikTok, or YouTube. The theory is that copyrighted music may cause a video to be muted, demonetized, blocked, or removed, making the recording less valuable to the person filming. However, this is unfortunately not a guaranteed solution. Automated systems often detect and enforce copyright violations more reliably than they detect or stop abu$e, invasions of privacy. Priorities in technology and platform moderation would lead one to believe that copyright law is legally stronger than women's rights in every context, which is fu€k3d. #latestagecapitalism #metaglasses #sexism #feminist #politics #latestagecapitalism #datacenter #metaglasses #survelliancecameras #flockcameras #politics #westvirginiadatacenters #datacenters #ai #SurveillanceState #GovernmentSurveillance #capitalismisthevirus #technofeudalism #feudalism #eattherich #bigbrother #billionairesshouldnotexist #EnvironmentalJustice #sexism #feminism #feminist #misogyny #news #dystopian #microaggressions",True,True,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1853239996053761,2026-07-18 02:54:04+00:00,Farrukh Jamal Raja,links,"""The future is built not only with technology, but with the lives it transforms along the way."" 🚀✨
+
+Innovation reaches its greatest potential when it creates opportunities far beyond the walls of a data center.
+
+Meta's continued investment in the Richland Parish Data Center reflects more than an expansion of AI infrastructure. 
+
+It represents new careers, stronger local businesses, improved roads and public utilities, scholarships for community college students, support for STEM education, and meaningful investment in teachers and the next generation. 🌎💙
+
+As artificial intelligence continues to shape tomorrow, the true measure of progress is not just computing power. 
+
+It is the positive impact technology has on communities, families, education, and the people who make that future possible.
+
+After all, the strongest foundations for innovation are built not only with servers and silicon, but with people, opportunity, and shared prosperity.
+
+If a major technology investment came to your community, what positive change would you hope to see first? 💬🌍
+
+#LifeAtMeta #Meta #ArtificialIntelligence #DataCenter #Innovation #CommunityDevelopment  #FarrukhJamalRaja",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2026572091398235,2024-04-17 23:04:08+00:00,KJRH,videos,"PROJECT ANTHEM: An $800 million data center could be coming to east Tulsa if city councilors approve a tax incentive district.  
+
+Justin Ayer News has the full story at kjrh.com.
+
+#datacenter #TaxIncentives #development #tulsaoklahoma",True,True,13.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,818261834379948,2025-06-11 16:00:16+00:00,Peso Weekly,photos,"Nvidia Just Made $44 Billion—Even Without China
+Nvidia’s AI chip empire is so strong, it just posted $44.06B in revenue last quarter—even though it couldn’t ship $2.5B worth of chips to China.
+
+Here’s what went down:
+• Data-center revenue: $39.1B (+73% YoY)
+• Net income: $19.89B (+31%)
+• Gaming chips: $3.76B (beat forecasts by 33%)
+• China ban impact: $8B projected loss this quarter
+• Next quarter forecast: $45B, plus or minus 2%
+
+While U.S. restrictions shut out Nvidia from one of its biggest markets, demand everywhere else—from Saudi’s sovereign AI plans to Big Tech’s $345B AI splurge—is keeping Jensen Huang's chip throne intact.
+
+Translation: China said “No.” The rest of the world said “Here’s a blank check.”
+
+📩 Stay informed with sharp, reliable news — for free.
+🔗 Subscribe to PesoWeekly via link in bio.
+
+#Nvidia #AIChips #TechNews #JensenHuang #USChina #PHNews #PesoWeekly #ArtificialIntelligence #Semiconductors #PhilippinesNews #DataCenter #GamingNews",True,True,16.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1331164535800009,2026-02-02 17:49:12+00:00,Guerrilla Publishing- Ron Durbin,videos,"SAND SPRINGS DATA CENTER LAWSUIT FILED!!!
+THE CITY HALL VISIT DID NOT GO WELL!!!
+
+After filing the Sand Springs Data Center lawsuit, I went to Sand Springs City Hall to coordinate when I would present an emergency motion to the court.
+
+Instead of transparency, the City chose panic.
+
+They CLOSED CITY HALL.
+
+Let that sink in.
+
+A public building, funded by taxpayers, was shut down because a citizen and journalist showed up to coordinate lawful court proceedings related to a lawsuit exposing Open Meeting Act violations, secret NDAs, and back-room dealing surrounding the proposed data center.
+
+This is not normal.
+This is not lawful.
+This is what government looks like when it knows it got caught.
+
+If City Hall closes its doors rather than answer questions, that tells you everything you need to know about how terrified they are of sunlight, records, and judicial review.
+
+We’re not going away.
+The emergency motion is coming.
+Accountability is coming.
+
+Sand Springs taxpayers deserve answers, not locked doors.
+
+More to follow.
+Paypal: paypal.com/donate/?hosted_button_id=VHECTC4AVGQJE
+Cashapp: https://cash.app/$GuerrillaPublishing
+
+Venmo: https://venmo.com/u/guerrillapco
+#SandSprings
+#SandSpringsOK
+#SandSpringsDataCenter
+#DataCenter
+#OpenMeetingAct
+#OklahomaOpenMeetingAct
+#SunshineLaw
+#GovernmentTransparency
+#CityHall
+#EmergencyMotion
+#CivilRights
+#PublicRecords
+#KnowYourRights
+#TaxpayerRights
+#GuerrillaPublishing",True,True,3690.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,2517979195343777,2026-06-25 21:59:14+00:00,Guerrilla Publishing- Ron Durbin,albums,"🚨🏗️ DATA CENTER FIGHT: CLAREMORE CORRUPTION CONTINUES!!! 🏗️🚨
+
+💰 How far will the City of Claremore go to protect a billionaire-backed data center? 
+
+Apparently… this far. This is Kevin Stitt level lying! 
+
+Today, the City announced that our referendum petitions were “legally invalid” because they claim the petitions were not filed before signatures were collected.
+
+❌ That is simply FALSE. While we didn’t go inside, we did film them going in and filing ballot titles and petitions, BEFORE a single signature was collected! 
+
+📄In fact, the City acknowledged those filings and even attempted to rewrite the ballot titles themselves! Maybe they didn’t realize that ALEX WAS RECORDING! We recorded outside! 
+
+⚖️ Then, on June 10th, Petitioner Alex Miller sued the City of Claremore because the ballot title drafted by the City’s attorneys wasn’t neutral. Instead, he alleged it was written as propaganda designed to convince voters NOT to overturn the data center ordinances.
+
+But here is the thing, BALLOT TITLES ARE NOT REQUIRED according to an Oklahoma Supreme Court case out of Norman. The Petitioners, instead of a ballot title, attached the ENTIRE ORDINANCE!
+
+🤔 So now the very same City that accepted those filings is claiming they never happened?
+
+🚩 This isn’t about following the law.
+
+💵 This is about protecting a massive data center project at all costs.
+
+We’ve been warning everyone from day one:
+
+🔒 Secret meetings.
+🤐 NDAs.
+🚪 Citizens locked out.
+📢 Opposition ignored.
+⚠️ And now… a complete rewrite of history.
+
+According to the City, documents they already received somehow don’t exist. Really? 🤨
+
+🚨 We knew City Manager John Feary would go to great lengths to push this project through, but this is beyond anything we’ve seen.
+
+⚖️ The good news?
+
+Alex Miller has already sued the City, and we can’t wait to see this battle play out in court. If the courts uphold the City’s position, then the people of Oklahoma deserve to see exactly how this system operates. Either way…
+
+💡 The truth is coming to light.
+
+👀 John Feary…
+
+We’re not stopping. We intend to continue pursuing accountability through every lawful avenue available, including exploring a citizen grand jury petition.
+
+🇺🇸 The people of Claremore deserve transparency—not political games.
+
+🔥 This fight is FAR from over. Stay tuned. Share this everywhere!
+
+#Claremore #ClaremoreOklahoma #DataCenter #StopTheDataCenter #GovernmentTransparency #Corruption #OpenGovernment #Referendum #Oklahoma #GuerrillaNews #HoldThemAccountable #WeThePeople #TruthMatters #LocalGovernment #Transparency #Accountability #FightBack #ProtectClaremore",True,True,273.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1554231786187837,2024-05-24 07:01:02+00:00,CIOLook Global,photos,"𝐓𝐡𝐞 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐜𝐞 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐢𝐧 𝐑𝐞𝐠𝐮𝐥𝐚𝐭𝐨𝐫𝐲 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞
+
+In today’s regulated business landscape, following compliance rules is a must. This article delves into the importance of data quality in compliance and its impact on businesses across sectors.
+
+Read More: https://bityl.co/Q612
+
+#dataquality #qualitydata #datacenter #regulatorycompliance #importance #qualityofdata",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1416390393737132,2026-08-05 16:03:30+00:00,CBS News Texas,videos,"What do you think – should neighboring towns get a say in developments right on their border?
+ 
+After hours of public comment, the Westlake Planning & Zoning Commission officially approved a site plan for a data center. But while Westlake moves forward, neighboring Keller residents are sounding the alarm over potential noise, high power demands and how close the center will sit to their homes.
+
+Now, the controversial plan heads to the Westlake Town Council for a final vote as the blame game between the two cities heats up. Read here: https://bit.ly/4pWOl5u 
+
+#NorthTexas #KellerTX #WestlakeTX #LocalNews #TexasGrowth #DataCenter #CommunityUpdate",True,True,186.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,27039104755718739,2026-06-09 16:46:41+00:00,Nickolas Osborne,photos,"News from the Van Room
+
+Data Center Update: When “No” Doesn’t Mean No
+
+Update: A Michigan township voted against a $16 billion data center. The developer sued two days later. Construction is underway.
+
+In May, this page covered Microsoft ending its nondisclosure agreements with local governments worldwide — the practice of binding mayors and city councils to secrecy about data center negotiations before the public knew a project existed. That story documented the front end of the system.
+
+Here is the back end.
+
+On September 10, 2025, the Saline Township board in Michigan voted 4–1 to deny rezoning of 575 acres of farmland for a $16 billion OpenAI-Oracle data center, developed by Related Digital. The planning commission had already rejected it. Every public meeting produced opposition. The township supervisor told Fortune: “If you polled everyone on the township board, they would have said the same thing: They didn’t want a data center there.” (Fortune, May 2026)
+
+Two days after the vote, Related Digital sued the township. The lawsuit alleged exclusionary zoning — that Michigan law recognizes data centers as a legitimate land use and that a township with no industrial zoning at all cannot categorically bar one. The township’s own attorney described the legal position as being “between a rock and a hard place.” (Fortune, May 2026)
+
+The township settled the lawsuit in October 2025. The settlement vote occurred in a closed session on October 1. The consent judgment was filed with Washtenaw County Circuit Court on October 15. A resident, Kathryn Haushalter, filed a separate lawsuit alleging the closed-session vote violated Michigan’s Open Meetings Act. A Washtenaw County judge denied her motion to intervene in February 2026, citing the settlement was already too far along to unwind. (Planet Detroit, February 2026)
+
+Construction began in November 2025 — before the legal challenge could be heard.
+
+On June 1, 2026, Michigan Governor Gretchen Whitmer and OpenAI CEO Sam Altman held an official groundbreaking. The project — named Saline Barn, after a red barn preserved on the former farmland — is the largest construction project in Michigan history per the governor’s own statement. It will draw 1.4 gigawatts of power. The facility is expected to cover 2.2 million square feet. (CNBC, June 1, 2026; Engineering News-Record, June 2026)
+
+The settlement included $14 million in community benefits: $4 million for farmland preservation, $2 million for community investment, $8 million for fire services. The developer confirmed the terms. (Data Center Dynamics, October 2025)
+
+At least 19 other Michigan municipalities have since frozen data center approvals. (Tom’s Hardware, May 2026)
+
+Where this connects to the NDA story
+
+The NDA agreements this page documented in May controlled what communities could know before a deal was made. The Saline case documents what happened after a community said no anyway. The mechanism in Saline was legal — a civil lawsuit over exclusionary zoning, a court-certified settlement. Whether the law as written gives communities adequate tools to shape what gets built in them is a question communities in at least ten states are now trying to answer through legislation. Most of those bills have stalled.
+
+One battle at a time. The documents exist. The courts are open. And the question of what “no” means in a rural township facing a billion-dollar developer is now being asked in communities across the country.
+
+Sources:
+Fortune — “A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began” (May 6, 2026)
+Planet Detroit — “Judge denies Saline Township resident’s move to intervene in data center settlement” (February 21, 2026)
+CNBC — “Stargate updates: OpenAI, Oracle building Michigan data center” (June 1, 2026)
+Engineering News-Record — “Record $16B Data Center Project Advances in Michigan” (June 2026)
+Click On Detroit — “Saline Township resident files lawsuit to stop massive data center project” (December 2025)
+Data Center Dynamics — “Township in Michigan settles lawsuit, allows data center project to proceed” (October 2025)
+Tom’s Hardware — “Michigan towns rush to block AI data centers after $16 billion Stargate project overrode local opposition” (May 2026)
+
+Nickolas Osborne │ June 9, 2026
+Osborne Standard LLC · All claims verified against primary sources before posting.
+
+#OsborneStandard #PaxInBello #NewsFromTheVanRoom #DataCenter #Saline #OpenGovernment #Stargate",True,True,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1023164006856447,2026-05-19 21:04:13+00:00,Tracey Holekamp,status,"Massie himself is a grass-fed off-the-grid farmer.
+
+His farm is powered by solar panels and Tesla batteries with a house the Massie family built themselves out of logs they cut from their own woods and with stone they quarried from their own land. The home is heated from the same wood, and water comes from a well that Massie dug by hand with his neighbor.
+
+They grow peaches and apple trees, raise pastured chickens with an automatic tractor, and raise grass-fed cattle.
+
+Massie once admitted to Moody he used Google Maps to spy on Joel Salatin to get new ideas for his farm. 🤣👏🤣
+
+No one paid me to write this. Massie has never given me any money but I have donated to his campaign.
+
+Massie originated and championed the Processing Revival and Intrastate Meat Exemption “PRIME” Act.
+
+Crafted by the Farm-to-Consumer Legal Defense Fund, in turn founded by Sally Fallon Morell of the Weston A. Price Foundation and others, this act is meant to remove the USDA as an impediment to small farmers.
+
+Small, locally run custom slaughterhouses are all over the place in the United States. USDA slaughterhouses are vanishingly rare and often at great distances away from farmers. The custom slaughterhouses are used by homesteaders and hunters who eat their own meat. The PRIME Act would allow them to be used by small farmers who sell their meat to the public, provided that they comply with local health regulations and don’t sell their meat across state lines.
+
+The regulatory burden to get a slaughterhouse inspected by the USDA is huge, and the number of USDA-inspected slaughterhouses is dwindling. Farmers often live 15 minutes from a custom slaughterhouse but have to haul cattle hours in trucks to a USDA site. Even then, USDA slaughterhouses are often booked for two years in advance.
+
+This all favors massive producers over small, local producers. They simply set up near a USDA facility and get treated with priority. Imagine trying to start a small new farm when the slaughterhouses are booked out for two years!
+
+After ten years of championing this bill, Massie finally got a major part of it passed by the House as part of the Farm Bill on April 30 of this year. The bill itself passed 224-220.
+
+Massie jokingly calls this version the “Subprime Act” because it allows direct sale to consumers but not sale to restaurants and grocery stores. The Senate still has to pass its version of the Farm Bill later this year to make the PRIME Act “pilot program” law.
+
+This is a massive step forward for decentralizing food production.
+
+Massie led major efforts to protect the rights of local governments to regulate AI data centers.
+
+Without Massie, you probably would have lost your ability to fight any AI data centers being put in your backyard.
+
+Massie used his seat on the Judiciary Committee to directly kill the Protect American AI Act, which would have granted privileges to AI datacenter permits. He opposed it on the basis that no industry should get special treatment.
+
+The original “Big Beautiful Bill” had a provision that would prevent state and local regulation of data centers. Massie exposed this on X, and that played a major role in the popular opposition that got it stripped in the Senate.
+
+After Trump introduced an executive order making glyphosate production a matter of national security and therefore protecting it with legal immunity, Massie introduce the “No Immunity for Glyphosate Act.” That so far has gone nowhere.
+
+Around the same time, the Farm Bill came in with provisions that struck down states’ ability to regulate pesticides inside their own borders and gave pesticide manufacturers legal liability against state-mandated warnings.
+
+Chellie Pingree, a Democrat representing Maine, introduced the “Protect Our Health” amendment to strip these provisions. The House Rules Committee rejected it, then Massie co-sponsored it. They rejected that, then Anna Paulina Luna, a Republican representing Florida, submitted her own version that achieved the same thing. The Luna version was was allowed through committee, it was voted on and passed, and the provisions have been stripped from the Farm Bill.
+
+Massie doesn’t own this issue the way he can claim to own the Prime Act, but he played an important role in it.
+
+Massie was one of three people who spearheaded the legalization of hemp after 60 years of federal prohibition that occurred in several stages from 2014 to 2018, and he single-handedly obstructed the DEA from confiscating legally used hemp seeds during that period.
+
+In addition to real wins like this, Massie is a voice for food freedom and elevates the conversation.
+
+Ron Paul had introduced the Unpasteurized Milk Bill in 2011 to reverse the FDA’s 1987 ban on transport of raw milk between states.
+
+Massie picked up the torch when he arrived in Congress. In 2014, he led a coalition of 20 lawmakers to introduce the Milk Freedom Act of 2014 and the Interstate Milk Freedom Act of 2014. The latter would open up transport between states that had already legalized raw milk and the former would open up transport across any state lines. He reintroduced these bills in 2015.
+
+In 2018, he got them attached to the Farm Bill, which forced an open floor debate about raw milk. Industrial dairy groups lobbied against it hard, and it lost 331-79.
+
+He reintroduced the bills in 2019, 2021, 2022, 2024, and 2026, but the bills have not gone anywhere and the open-floor debate in 2018 was so far its greatest achievement.
+
+In March of 2024, in response to the Amos Miller legal battle, Massie introduced a Constitutional Amendment:
+
+The right of the people to grow food and to purchase food from the source of their choice shall not be infringed, and Congress shall make no law regulating the production and distribution of food products which do not move across state lines.
+
+Why is there 15 million dollars trying to push Massie out today?
+
+Because Massie co-introduced with Ro Khanna, a Democrat representing California, the Epstein Files Transparency Act in July 2025.
+
+This bill was blocked by Republican leadership and Massie took the nuclear option.
+
+He filed a discharge petition, which allows the House leadership to be overridden with 218 votes, something a congressman almost never does against the leadership of his own party.
+
+The White House signaled that signing this would be “viewed as a very hostile act to the administration.” Massie was one of only four Republicans to sign, along with Marjorie Taylor Greene, Nancy Mace, and Lauren Boebert.
+
+Exposing the Epstein files was Massie’s unforgivable sin.
+
+The impact could endure for decades. Because he got it signed into law, the law itself would have to be reversed to end its impact. Until then, the files kept hidden are done so illegally and this can be prosecuted later. This surely is part of why his sin is so unforgivable.
+
+The primary vote is TODAY. 😬
+C Masterjohn",True,True,2297.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1701892600857872,2026-03-30 15:51:21+00:00,Guerrilla Publishing- Ron Durbin,photos,"COWETA DATA CENTER SCRAPPED — WE WON… AND NOW WE FINISH THIS!
+
+The developer officially scrapped the Coweta data center project.
+
+Let that sink in.
+
+After months of secrecy… backroom negotiations… and elected officials hiding behind NDAs…
+
+It’s over.
+
+And yes — we believe public pressure and our lawsuit against the City of Coweta played a major role in stopping it.
+
+This is what happens when people push back.
+
+But we’re not done. Not even close.
+
+Because this fight was never just about a data center.
+
+It was about whether city officials can:
+   •   Cut deals in secret
+   •   Sign NDAs with private corporations
+   •   Shut the public out of decisions that impact their community
+
+So let’s be crystal clear:
+
+We are NOT dismissing our lawsuit.
+
+We are moving forward — full speed — to prove that Coweta officials violated Oklahoma Open Meeting laws.
+
+Why?
+
+Because if they did it here, they’ll do it again.
+And other cities will follow unless someone draws a line.
+
+We intend to send that message loud and clear to:
+➡️ Coweta
+➡️ Sand Springs
+➡️ Claremore
+➡️ Every city in Oklahoma
+
+You don’t get to govern in secret.
+You don’t get to hide behind NDAs.
+And you don’t get to ignore the people you were elected to represent.
+
+We stopped the project. Now we’re going to hold them accountable.
+
+#Coweta #DataCenter #OklahomaFirst #OpenMeetingsAct #Transparency #GovernmentAccountability #NoMoreSecrets #GuerrillaPublishing #WeThePeople",True,True,833.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1499222511883868,2026-05-31 22:24:07+00:00,The State You're In,photos,"This map stopped me cold.
+
+On one side: 350 Bojangles locations across North Carolina. Built over 50 years, one town at a time, starting with two guys and a fryer in Charlotte in 1977.
+
+On the other side: AI data centers. Dozens already here. Hundreds more announced or proposed. Microsoft. Amazon. Google. Meta. Apple. All planting flags across the same map,  Catawba County, Richmond County, Greensboro, Charlotte, the Piedmont, the foothills, and they're doing it in years, not decades.
+
+At current pace, Big Tech will have as many locations in North Carolina as Bojangles within this decade.
+
+Let that sink in.
+
+Bojangles grew because people were here. Because someone in Maiden or Lenoir or Forest City wanted a franchise and their neighbors wanted a biscuit. That kind of growth is human-scaled. It made sense to the people living through it.
+
+This is different.
+
+These decisions are made in boardrooms in Seattle and Menlo Park. The towns are chosen, they don't do the choosing. And what they're getting in return isn't foot traffic or jobs for their neighbors. It's power consumption the size of a small city. Water bills that don't show up in the press release. A giant building with a handful of employees and a fence around it.
+
+Some communities are starting to push back. Tarboro voted to reject a $6.4 billion data center. Apex residents are fighting one that would swallow 190 acres of farmland. But for every town that says no, three more are being offered the same deal.
+
+Nobody asked the people of Catawba County if they wanted to become the data center capital of the South.
+
+Jack Fulk opened the first Bojangles because he thought people deserved a good biscuit.
+
+That's the difference. And it matters.
+
+📍 We built a map showing both, every Bojangles and every data center (current and proposed) in NC. Interactive map on our site. 
+
+#NorthCarolina #AIDataCenters #DataCenter #Bojangles #BigTech #EnergyPolicy #LocalNews",True,True,3084.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1054688560839555,2025-12-27 17:43:58+00:00,Retro Housewife Goes Green,videos,"I’m in Oklahoma and because of our traditionally “cheap” electricity and poor environmental regulations data centers are flocking here. 
+
+We are seeing the impact with our electric bill already and it’s only getting worse!
+
+Americans living near large clusters of data centers have seen their average electricity bills rise by as much as 267% over the past five years!
+
+We need to do something about this shift of energy costs for data centers onto everyday consumers! We can’t just switch our light bulbs and use our AC less to get out of this one.
+
+This is a collab with Drumbeat.
+
+#datacenter #frugallife #frugalliving #homemaking",True,True,302.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1585538366569685,2026-06-17 15:00:28+00:00,Guerrilla Publishing- Ron Durbin,photos,"🚨 LUTHER — DATA CENTER MEETING TONIGHT! 🚨
+
+If you're concerned about the proposed data center, tonight is your chance to show up, ask questions, and make your voice heard #CitizenVoices
+
+Here is a link to the full document i provided to your city council outlining all concerns and how to mitigate all damage to YOU if they pass it: https://drive.google.com/file/d/11IMfrcKJkbJzbyNtawXVfIMkTiRPTwGJ/view?usp=drivesdk
+
+This is the same project that has generated significant controversy, concerns about transparency, and questions from citizens throughout the community.
+
+We've already seen packed meetings and enough public interest that the meeting had to be rescheduled to accommodate the crowd.
+
+🏭 Data centers can have massive impacts on a community's future, including water usage, power consumption, infrastructure demands, and long-term development.
+
+The meeting will be outside Town Hall at 7:00 PM TODAY 6/17
+There will be an overflow room at town hall for those who need AC.
+
+No matter where you stand on the issue, now is the time to get informed and get involved.
+
+🎥 We'll be there covering the meeting and speaking with citizens.
+
+If you're in Luther, come out and make your voice heard.
+
+Stay tuned for full coverage.
+
+#LutherOK #DataCenter #Oklahoma #GovernmentTransparency #CommunityRights #GuerrillaNews #PublicMeeting #CitizenVoices",True,True,157.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1054011200705567,2026-01-17 09:00:06+00:00,"RRJM International Manpower Services, Inc.",photos,"🖥️ Control the Systems, Power the Future! 🖥️
+RRJM International Manpower Services Inc. is hiring BMS Technicians for ESAD for Human Resources Solutions and Management Company in Saudi Arabia.
+
+💰 Salary: SAR 8,000 – SAR 10,000
+🏠 Accommodation provided
+🚌 Duty-related transportation provided
+📜 Benefits: As per KSA Labor Law
+
+📌 Requirements:
+
+5–10 years of Data Center operational experience
+
+Skilled in operating and monitoring BMS systems for building equipment
+
+Knowledge of fire/life safety systems, HVAC, plumbing, controls, and electrical systems (lighting, UPS, rectifiers, PDU, generators, primary switchgear)
+
+Familiar with cabling (data & power), temperature control systems, and digital systems (fire alarms)
+
+Ability to operate NOC tools (SMS portal, VMS, Remedy) and manage reports & documentation
+
+📍 Apply Now:
+✉️ recruitment_two@rrjm-manpower.com
+
+Keep buildings safe, efficient, and connected with your expertise! 🌍
+
+#Hiring #BMSTechnician #RRJM #OFW #JobOpening #SaudiArabiaJobs #EngineeringJobs #BuildingManagement #DataCenter #OverseasJobOpportunity",True,True,87.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1317077823930272,2026-06-07 14:30:32+00:00,Techworm,photos,"Is the AI boom costing us the planet? 🌍
+
+A striking new United Nations report reveals that the common belief that artificial intelligence will require fewer resources as it becomes more efficient is a dangerous illusion. Instead, economic history shows that making technology cheaper only skyrockets our overall consumption. If we don’t pivot quickly, the environmental bill for our digital progress is about to come due.
+
+By 2030, AI's global energy usage is projected to double, swallowing up 3% of the world's electricity. This rapid rise will generate a massive carbon footprint equal to the entire United Kingdom, requiring 6.7 billion trees grown over a decade just to offset the damage. Last year alone, data centers already burned through as much power as the nation of Saudi Arabia.
+
+The strain on physical resources is even more alarming. AI data centers are on track to consume 9.3 trillion liters of water for cooling—more than the annual drinking water needs of the entire global population—while taking up land nearly ten times the size of Mexico City. Compounding the crisis is a steep digital divide: 90% of this advanced cloud infrastructure is controlled by just two nations, the US and China, while trailing countries bear the brunt of e-waste and raw mineral extraction.
+
+To prevent an eco-crisis, the UN is urging a major rewrite of the innovation playbook. We need full value-chain governance, mandatory environmental disclosures for AI developers, and tech energy demands integrated into global climate planning.
+
+How do we balance the undeniable power of AI with the urgent need to protect our natural ecosystem?
+
+#ArtificialIntelligence #SustainableTech #ClimateChange #GreenComputing #DataCenter",True,True,33.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,3510715039108816,2026-05-31 19:30:20+00:00,The Tree Rv LLC,photos,"🌳☀️ Summer is here, and so are our NEW Long-Term Rates! ☀️🌳
+
+If you’re tired of crowded RV parks and looking for a place where you can truly relax, we’d love to welcome you to The Tree RV LLC.
+
+Nestled among beautiful pecan & mesquite trees and surrounded by nature, our spacious sites offer a peaceful setting to call home. Enjoy your morning coffee under the canopy, watch local wildlife, and unwind after a long day in a place designed for comfort and simplicity.
+
+✨ Full Hookups
+✨ 30 & 50 Amp Service
+✨ City Water & Sewer
+✨ Utilities Included
+✨ Spacious Sites
+✨ Quiet Country Atmosphere
+
+At The Tree RV LLC, you’re more than just a guest—you’re part of our community.
+
+📍 Anson, Texas
+📞 325-721-4101
+
+Your Home Away From Home 🌿
+
+#rvpark
+#abilenetexas
+#anson
+#hawley
+#haskell
+#stamford
+#hamlin
+#merkel
+#college
+#datacenter
+#solar",True,True,4.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",policy_related,1787342832715987,2026-07-31 23:56:15+00:00,Collin County Journal,photos,"BREAKING: Democrats And Republicans Are Now Joining Forces To Fight Texas Data Centers.
+
+This is no longer a left-versus-right issue.
+
+Rural Texans, Republicans leaders, Democratic leaders, and grassroots groups are now pushing Abbott to call a special session on data centers.
+
+They want Texas to act now on water use, power demand, noise, infrastructure costs, and massive tax breaks.
+
+Texas is projected to let data centers skip $3.3 billion in sales taxes over the next budget cycle.
+
+Abbott says the Legislature can tackle it next year.
+
+Communities say they cannot wait that long.
+
+When Democrats and Republicans agree the system is broken, how big does the backlash have to get before Texas acts?
+
+#datacenter #TexasNews #collincounty #powergrid #AIDevelopment #republican #democrat #Trump",True,True,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1601183631163438,2025-04-25 10:01:49+00:00,ST Telemedia Global Data Centres India,photos,"With businesses moving rapidly towards an AI-first future, we are geared up to be the trusted partner in spearheading innovation in this evolving digital landscape. Our event, Partnerscape 2025, Delhi Chapter with the theme of 'Powering AI Together: The Partnership Advantage', highlights the coming together of IT infrastructure with emerging technologies.
+
+Be part of this event on 30th April to experience our cutting-edge solutions and knowledge of the AI needs of today's businesses. Thank you for being our valued partner. We look forward to hosting you at the event!
+
+#DataCentre #DataCenter #EnablingOurDigitalFuture #AIEnabler #AIReadyDataCentre #STTGDCIndia",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2548730585625473,2026-01-08 19:51:18+00:00,Networks Baseline,photos,"DATACENTER RACK & PDUs -  Networks Baseline
+Most people think a datacenter rack is just “a metal box with servers.
+It’s the backbone of uptime,
+the difference between scaling and crashing,
+and the silent reason your business stays online at 3:17 AM.
+Inside one rack:
+✔️ Structured cabling that doesn’t turn into spaghetti
+✔️ Redundant power so outages don’t own you
+✔️ Network gear that moves data like a highway, not a side street
+✔️ Servers stacked with purpose — not guesswork
+Here’s the truth most vendors won’t say:
+👉 A messy rack = hidden risk
+👉 A clean rack = predictable growth
+And predictable growth?
+That’s where real money is made.
+If your rack hasn’t been audited, labeled, and optimized…
+you’re running on borrowed time ⏳
+💡 CTA:
+Comment “RACK” and I’ll show you what a production-ready datacenter rack should look like — no fluff, no jargon, just clarity.
+Because infrastructure shouldn’t be invisible until it fails.
+
+#education #networking #security #network #fblifestyle #technology #datacenter",True,False,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1099420682549642,2024-11-28 10:01:41+00:00,Alpine Technologies,photos,"𝗦𝗲𝗿𝘃𝗲𝗿 𝗛𝗼𝘀𝘁𝗶𝗻𝗴.
+
+Visit www.alpinetech.biz to avail services.
+
+#alpine #alpinetechnologies #webhosting #webhostingpakistan #webhostingprovider #servers #Email #sharedhosting #ResellerHosting #DedicatedHosting #VPSHosting #managedhosting #CloudHosting #colocationserver #wordpress #Domains #webhostingcompany #affordable #datacenter #fastesthosting #wordpresshosting #cpanelhosting #cpanel #100uptime #lowprices #premiumemail #itservices #webhostingoffers #sslcertificates #itsupport",True,False,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1744735673509380,2026-08-06 11:29:19+00:00,Multilink Engineering,photos,"🔋 Extend Your Uptime. Maximize Your Backup.
+Power interruptions shouldn't slow your business down. The APC Easy UPS SRV36BP-9A Battery Pack from Multilink Engineering delivers extended runtime, high-capacity backup, and reliable performance to keep your critical systems running when you need them most.
+✅ 36V, 648VAh High-Capacity Battery
+✅ Extended Backup Runtime
+✅ Reliable Performance
+✅ Ideal for Data Centers, IT Infrastructure & Businesses
+✅ Schneider Electric Elite & APC Partner
+📞 042-36619991
+🌐 www.multilinkeng.com
+Protect your business with dependable UPS backup solutions.
+#MultilinkEngineering #APC #SchneiderElectric #UPS #PowerBackup #BusinessContinuity #DataCenter #ITInfrastructure #ReliablePower #BackupSolutions",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1754487689038426,2024-02-17 08:48:49+00:00,TechX,photos,"Cisco Systems, known for its widely used Networking Products, is planning a significant workforce reduction, with over 4,000 employees leaving.
+
+Read More:
+https://techx.pk/massive-tech-industry-cisco-firing-over-4000-employees
+
+#cisco #ccna #ccnp #networking #network #networkengineer #technology #cybersecurity #ccie #it #mikrotik #security #datacenter #linux #telecom #microsoft #networkingproducts #network #security #tech #uae #cisco #networkingsolutions #mypassion #passion #itnetworking #networkengineer #networktechnology #wirelessaccesspoint #wifi #routers",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1356208012611322,2025-12-04 02:55:02+00:00,Reese Waters,photos,"Inquiring minds want to know… 🧐 
+
+Hit the 👍 and tell me below! ⬇️
+
+(They are also polluting the surrounding neighborhoods to boot! 🤷🏽‍♂️🤦🏽‍♂️)
+
+#AI #DataCenter #Migrants 
+
+#ReeseWaters",True,False,81.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,4433992543544595,2025-08-01 07:40:02+00:00,The CEO Magazine,photos,"Google  is set to invest $6 billion (₹52,000+ Cr) to build a 1-GW data center in Visakhapatnam, Andhra Pradesh—its first such project in India and Asia’s largest by capacity. Of the total, $2 billion will go toward renewable energy to power the facility.
+
+Part of Alphabet’s $75B global data center expansion, this move boosts India’s digital infrastructure ambitions amid rising AI and cloud computing demand. Andhra Pradesh is also ramping up its connectivity and energy capacity to support future growth.
+
+#googleindia #datacenter #andhrapradesh #digitalinfrastructure #sundarpichai #renewableenergy #techinvestment #cloudcomputing #generativeai #visakhapatnam #alphabet #aiinfrastructure #globaltech #indiadigital #googleinvestment #infrastructuredevelopment #itgrowth #foreigninvestment #technews #datacenterindia #digitaltransformation",True,False,1301.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,942432105561278,2026-04-20 00:26:51+00:00,Brittany Anne Bowshier,videos,"Jesus is Coming To Avenge all God's Innocent Children. 🙏 No matter your beliefs you are a child of God. 
+
+Hash tags are only here because they are trending. 
+#warrior #war #endofdays #lastdays #datacenter #viralreelsシ #charliekirk #Trump",True,False,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1561921108640707,2025-06-20 03:29:07+00:00,PM Networking,videos,"Join our exciting new combo batch of CCNA and CCNP where you'll gain the skills and knowledge needed to navigate the digital highways of today's connected world.
+
+#ccna #ccnp #pmnetworking #networkengineering #datacenter",True,False,37.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1581775006745835,2025-04-21 18:19:50+00:00,Auwalu Adamu Yobe State,links,"ATTENTION!
+EXTENSION OF APPLICATION TO 30TH APRIL.
+
+Dear beneficiaries
+On the request of the National Union of Yobe State Students, National Headquarters, the Yobe State Scholarships Board has extended the period for domestic scholarship applications for Yobe indigenes in all tertiary institutions in Nigeria. Diploma, NCE, HND, UG, Masters and PhD.
+
+ This extension is to the 30th April 2025.
+
+Note: This application is FREE. 
+Applicants must ensure they fill the online form fully and properly and should print their acknowledgement  slips for all future references.
+
+Here is the link for application 👇👇 https://ssb.datacenter.com.ng/ssb/freset.php
+
+For inquiries on using the portal, contact Dr. Idriss 07030615772
+
+Tijjani Chiroma 
+Public Relations Officer, YSSB",True,False,2.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,4536178963321044,2025-03-20 22:13:56+00:00,Proxyssite,links,"⚡️ Fast. Secure. Unlimited.
+
+Try Proxyssite.com Proxies FREE for 3 Days!
+🔹 40K+ Datacenter IPs
+🔹 HTTP/SOCKS5 Supported
+🔹 Works with All Tools
+
+https://proxyssite.com/
+
+#PROXYFREE #proxyservice #toolmarketing #ScrapingTools #proxytrial",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1498324205658023,2026-05-12 02:49:55+00:00,Kasey Matthews Johnson,videos,"Humans matter. 
+
+#Datacenters #datacenter #realtalk #faith #hope",True,False,41.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1864325361579352,2026-06-06 02:27:59+00:00,Network Edge,photos,"Medium Office Network Architecture – The Backbone of Business Connectivity! 
+
+Every successful office network starts with a solid design: ISP ➜ Router/Firewall ➜ Core Switch ➜ Access Switches ➜ PCs, Printers, Servers & Wi-Fi Access Points.
+
+A well-designed network delivers: 
+✅ High Performance
+✅ Better Security
+✅ Easy Management
+✅ Future Scalability
+✅ Reliable Connectivity
+
+👨‍💻 Network Engineers, your turn!
+
+What is the MOST important device in an office network?
+
+🅰️ Router
+🅱️ Switch
+🅲️ Firewall
+🅳️ Access Point
+
+💬 Drop your answer in the comments and explain why!
+
+📌 Save this post for future reference. 
+📤 Share it with your IT and networking friends. 
+
+#Networking #NetworkEngineer #CCNA #CCNP #Cisco #NetworkDesign #EnterpriseNetwork #OfficeNetwork #Switching #Routing #Firewall #WiFi #ITInfrastructure #NetworkSecurity #DataCenter #SysAdmin #TechCommunity #LearningNetworking #NetworkingWithIsrar #TechTips 🚀🌐💻",True,False,240.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1564107885312131,2026-06-26 01:06:30+00:00,Kimberly Bradford,videos,"Money Thursday: THEY ARE TOKENIZING WATER
+2026 WATER TOKENIZED DJT
+2021 Right to Repair Section 24220 Surveillance Mandate in vehicle
+2010 US States at NATO FOOD NOT A HUMAN RIGHT Obama
+2010 Affordable Care Act froze physician owned hospitals Obama
+2009 Cash for Clunkers Obama
+2001 $2.3 trillion announcement Bush
+1997 Balanced Budget Act Clinton
+Bipartisan Tsumi(Checkmate) #water #ai #datacenter #crypto #blerd #patternrecognition",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2477448106093387,2026-05-08 10:42:53+00:00,Joyatres Technology,photos,"Most network engineers master OSPF.  
+Very few ever touch the protocol that quietly powers the internet backbone itself: IS-IS.
+
+While enterprises focus on Layer 3 routing, hyperscalers and carrier-grade networks rely on IS-IS for massive scalability, resilience, and extensibility.
+
+Why?
+
+✔ Runs directly over Layer 2  
+✔ Highly scalable hierarchical design (L1/L2)  
+✔ TLV-based architecture for easy extensibility  
+✔ Preferred in large ISP and backbone infrastructures  
+✔ Used in environments demanding nonstop availability
+
+This protocol operates behind the scenes across some of the world’s largest infrastructures.
+
+Google. Amazon. Meta. Tier-1 carriers.
+
+Most CCNA/enterprise paths barely cover it — yet it helps keep the global internet connected.
+
+I created this white-paper style visual to simplify how IS-IS backbone architecture actually works and why it remains critical for hyperscale networking.
+
+Networking is far deeper than just switching and enterprise routing.  
+The real internet backbone operates on a completely different scale.
+
+#Networking #CCNA #CCNP #ISIS #OSPF #NetworkEngineering #DataCenter #InternetBackbone #Routing #Telecom #ISP #CloudNetworking #Infrastructure #TechLearning #NetworkArchitecture",True,False,18.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1576929217115703,2024-11-22 14:16:22+00:00,Pure Storage,photos,"Where will the world’s technology leaders be this December? At the Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2024 in Las Vegas, NV, from December 10–12! Discover strategies to drive real impact within your organization and connect with Pure Storage at booth 329. Don’t miss it! 
+https://purefla.sh/3OoBK9v
+
+#GartnerIOCS #IOCS24 #Gartner #innovation #technology #StoragePlatform #IT #cloud #HybridCloud #DataCenter",True,False,5.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1236340219561552,2026-07-31 12:37:19+00:00,Carmen Gentile,links,Truth about AI ECONOMY and DATA CENTERS #ai #datacenter #jobs #economy #postindustrial,True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1043160458405143,2025-03-19 12:03:03+00:00,INE Security - FKA Elearnsecurity,photos,"🔹 CISCO ACI MASTERY: EXPERT-LED TRAINING WITH BRIAN MCGAHAN
+Elevate your data center networking skills with our comprehensive 3-day live virtual training on Cisco's Application Centric Infrastructure (ACI)!
+Learn to harness the power of software-defined networking and policy-based automation to transform your data center operations:
+
+- Design and deploy single-site and multi-site ACI fabrics
+- Configure application profiles, EPGs, and contracts for connectivity and security
+- Implement advanced features including multi-tenancy and external network integration
+- Master monitoring and troubleshooting techniques using built-in tools
+
+📅 April 1-3, 2025
+⏰ 10AM-4PM ET daily
+👨‍🏫 Led by industry expert Brian McGahan
+
+Perfect for networking professionals with switching/routing knowledge and basic understanding of network services and virtualization.
+Secure your spot today and become the ACI expert your organization needs! https://bit.ly/4iAPGdN 
+
+#CiscoACI #DataCenter #SDN #NetworkAutomation #CiscoTraining #TechCertification",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2167816390809267,2024-01-08 13:00:28+00:00,Networks Baseline,links,"🚀🚀Cisco Datacenter: vPC ( Single and Double Sided vPC)
+#Cisco #Datacenter #vPC #Networking #Networks #Networkengineers #CCNA #CCNP #CCIE #CiscoChampion #Networksbaseline 
+https://www.thenetworkdna.com/2020/01/cisco-datacenter-vpc-single-and-double.html",True,False,407.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1452695323121259,2024-10-01 21:46:55+00:00,Pokde.net,links,"The new Google datacenter located at Elmina Business Park is aimed to foster the nation's digital development, as well as AI innovations. 
+#Google #GoogleCloud #AI #Datacenter #Selangor #malaysia",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1905350173721980,2025-10-07 15:01:03+00:00,Insider,photos,"Big Tech is set to spend $320 billion on capex, mainly for AI infrastructure like data centers.
+
+(Credit: John-David Richardson for Business Insider)
+
+#ai #datacenter #tech",True,False,25.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2878793352487073,2025-10-15 21:34:46+00:00,Lts Samoa,photos,"🌟 LTS Samoa x ACwatt Power — Reliable UPS Power Solutions Now Available! ⚡️
+
+We’re proud to announce our new partnership with ACwatt Power, a global leader in high-efficiency, intelligent UPS systems designed for data centers, enterprises, medical, government, and industrial applications.
+
+Whether you need single-phase or modular three-phase UPS systems, ACwatt delivers proven reliability, IoT-enabled smart monitoring, and efficiency up to 97% — all backed by over 20 years of R&D and international engineering excellence.
+
+💪 Key Highlights:
+
+🔋 Power range: 1kVA – 3200kVA
+
+🌿 High efficiency (up to 97%) & low THDi
+
+⚙️ IoT Smart Control with LCD touch displays
+
+🧠 Device-Level Protection – reliable even in harsh environments
+
+⚡️ Lithium Battery Compatible & modular design
+
+🧍‍♂️ Easy maintenance – single-person serviceable
+
+📍 Now distributed by Lesa’s Telephone Services (LTS Samoa)
+Your trusted local partner in UPS Power, Networking & Data Infrastructure Solutions.
+
+📞 Contact us today to power your business with smarter energy solutions.
+📧 LTS@lesamoa.net 🌐 www.lesamoa.net
+
+#LTS #ACwatt #UPSPowerSolutions #SmartEnergy #DataCenter #PowerBackup #Samoa #LesaTelephoneServices #EnergyEfficiency #IoTUPS #ReliablePower",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1883399743044357,2026-05-19 23:13:22+00:00,Sussex Visibility Brigade,videos,"Regional Council of Carpenters decided to show up in support of the data center tonight at the Land Use Board Meeting in Andover. It starts at 7:30PM so get here if you can, stay tuned for updates if you can't.
+
+#andovernj #datacenter #sussexcounty #njhighlands #newjersey",True,False,184.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,980853738318020,2025-12-19 06:12:26+00:00,PM Networking,videos,"Learn and Master Modern Networking with Automation, AI, SDN, Cloud, and Data Center at PM Networking.
+—
+#ccna #ccnp #networkengineering #pmnetworking #datacenter #routing #switching #automation",True,False,102.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2288030135287291,2026-08-05 15:53:43+00:00,Financial Trends,videos,"$CAT posted its first-ever $20B revenue quarter and raised guidance on surging data-center demand — a record $72B backlog and EPS of $8.17 crushing estimates, shares up ~9%. 📈
+
+Full profile: https://topstockpicks.co/caterpillar-just-booked-its-first-20-billion-quarter-and-data-centers-are-fueling-it/
+
+#CAT #Caterpillar #datacenter #earnings #stocks
+
+No compensation. Always do your own due diligence.",True,False,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2445518149293246,2026-02-19 22:34:49+00:00,James Bigley Ranches,videos,The largest datacenter in the world: Project Matador #datacenter #ai #texas #water #energy,True,False,16483.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1599092911865639,2026-04-16 16:48:59+00:00,Thejobwalk,photos,"World's Largest Data Center? 
+
+Jason Bak, CEO of Green Data Centers walked into a Socorro Electric Cooperative board meeting with plans for a 10-gigawatt solar farm and a 2-gigawatt data center on 10,000 acres in New Mexico.
+
+Jason called it the largest data center in the world.
+
+Community outreach hasn't started, land approvals are still pending, and locals are already asking hard questions about wildlife corridors, water rights, and what a multi-billion dollar project actually means for a low-income town.
+
+Read the full article on our website 🔗 Link in bio
+
+Follow for more of the biggest construction stories in America ✅
+
+#DataCenter #RenewableEnergy #NewMexico #Construction #SolarEnergy #TheJobWalk",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1475557111254320,2026-03-16 22:08:47+00:00,WV News,links,"Technology companies Nscale, Microsoft and Nvidia are partnering to expand the planned development of a date center and microgrid campus in Mason County. 
+Read more here: https://vist.ly/4v589
+#WVNews #DataCenter #Business",True,False,122.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,24351588337778021,2024-07-20 08:00:31+00:00,The CV HUB Botswana,photos,"DIPHATLHA TSA MMEREKO – MOSHOMO 
+
+18 Opportunities / Vacancies, look for yours and all the best.
+
+1. DO YOU HAVE WHAT IT TAKES TO JOIN THE WATER WORKS?
+Vacancy:
+Specialist: Facilities x1 – Based at Head Office 
+Apply here: careers.wuc.bw 
+NB: Only successful candidates will be responded to.
+Closing Date: 22 July 2024
+hashtag#SomarelaThothi
+...................................................................................................................................
+2. DEPUTY EXECUTIVE DIRECTOR – RESEARCH AND INNOVATION 
+5 Years Fixed Term Contract - Tenable in Gaborone
+
+For more details visit: https://lnkd.in/d_QRrN8J
+
+...................................................................................................................................
+3. Join Our Team as a Restaurant Manager!
+We're a growing restaurant chain looking for experienced Senior Managers. If you have 2+ years in the restaurant industry and a passion for exceptional service, apply now!
+Responsibilities:
+• Oversee daily operations
+• Manage staff
+• Ensure high-quality food and service
+• Meet financial targets
+Requirements:
+• Strong leadership and communication skills
+• Proven success in a fast-paced environment
+Benefits:
+• Competitive salary
+• Opportunities for growth
+Apply Now: Send your resume and cover letter to hr@cappuccinos.co.bw. 
+Deadline: July 23, 2024
+...................................................................................................................................
+4. Seeking Talented Cooks!
+Are you a skilled and fast cook? Join our busy stores and grow with us!
+How to Apply:
+1. Send a short CV
+2. Explain why you deserve this opportunity
+Email: hr@cappuccinos.co.bw
+Selected candidates will be invited for a cooking session to showcase their skills.
+Closing Date: 23 July 2024
+...................................................................................................................................
+5. Hiring Restaurant Hostesses!
+Join our welcoming team as a restaurant hostess. If you have a friendly personality and excellent customer service skills, we want you!
+Responsibilities:
+• Greet and seat guests
+• Manage reservations and waiting lists
+• Provide exceptional customer service
+Requirements:
+• Previous experience in customer service or hospitality
+• Excellent communication and interpersonal skills
+• Ability to work in a fast-paced environment
+What We Offer:
+• Competitive salary
+• Friendly and supportive work environment
+How to Apply:
+1. Send a short CV
+2. Explain why you’re a great fit for this role
+Email: hr@cappuccinos.co.bw
+Closing Date:23 July 2024
+...................................................................................................................................
+6. Hiring Pizza Makers!
+Join our team as a pizza maker. If you have experience in pizza preparation and a passion for creating delicious food, we want you!
+Responsibilities:
+• Prepare and cook pizzas to order
+• Ensure high-quality ingredients and presentation
+• Maintain a clean and organized workspace
+Requirements:
+• Previous experience in pizza making
+• Strong attention to detail
+• Ability to work in a fast-paced environment
+What We Offer:
+• Competitive salary
+• Opportunities for growth and development
+How to Apply:
+1. Send a short CV
+2. Explain why you’re a great fit for this role
+Email: hr@cappuccinos.co.bw
+Closing Date: 23 July 2024
+...................................................................................................................................
+7. Join Our Team: Botswana Youth Officer (SRHR) 
+Submission Deadline: 26 July 2024
+Introduction:
+SRHR Africa Trust (SAT) empowers Southern Africa's youth to lead healthy, confident lives. As a UN ECOSOC accredited NGO, we collaborate with activists, NGOs, and governments to promote adolescent health and wellness.
+Job Purpose:
+The Botswana Youth Officer will oversee SAT Country Youth Hubs, coordinate youth engagement in advocacy and service delivery, and provide data-driven inputs to SAT initiatives.
+Main Tasks and Duties:
+- Build and maintain stakeholder relationships locally and internationally.
+- Develop annual work plans aligned with SAT’s strategy.
+- Implement SAT programs and advocacy plans.
+- Conduct capacity building for staff and partners.
+- Manage donor and internal reporting.
+- Identify and cultivate funding opportunities.
+Requirements:
+- Post-Secondary School Certificate/Diploma.
+- Strong presentation and report writing skills.
+- Minimum 2 years of youth activism experience.
+- Age requirement: Above 30 years.
+How to Apply:
+Interested candidates should email a cover letter, CV, and three references to Christina Magoro at recruitment@satregional.org.
+Deadline:
+Applications close Midday Friday, 26 July 2024.
+View the full job spec: https://www.srhrafricatrust.org/tenders-vacancies/
+For more details about SAT, visit www.satregional.org.
+...................................................................................................................................
+8. Hiring Operations Manager!
+Join our expanding restaurant chain as an Operations Manager. If you have a passion for leadership and experience in managing operations, we want you!
+Responsibilities:
+• Oversee daily operations across multiple locations
+• Ensure high-quality service and efficiency
+• Manage and train staff
+• Develop and implement operational policies
+Requirements:
+• Proven experience in operations management
+• Strong leadership and problem-solving skills
+• Excellent communication abilities
+What We Offer:
+• Competitive salary
+• Opportunities for career growth
+How to Apply:
+1. Send your resume
+2. Explain why you’re the ideal candidate for this role
+Email: hr@cappuccinos.co.bw
+Closing Date:23 July 2024
+...................................................................................................................................
+9. Hiring Cashiers!
+Join our dynamic restaurant team as a cashier. If you have excellent customer service skills and experience handling transactions, we want you!
+Responsibilities:
+• Process customer orders and payments
+• Maintain accurate cash drawers
+• Provide friendly and efficient service
+Requirements:
+• Previous cashier experience
+• Strong communication skills
+• Ability to work in a fast-paced environment
+What We Offer:
+• Competitive salary
+• Friendly and supportive work environment
+How to Apply:
+1. Send a short CV
+2. Explain why you’re a great fit for this role
+Email: hr@cappuccinos.co.bw
+Closing Date: 23 July 2024
+........................................................................................................................................
+10. IP Network and Security Specialist
+Main missions of the job:
+Management of all IP Network Security & technical related issues  (IPPABX, OBW LAN, Remote WAN sites, Outsourced Call Centers, GIN Flows,3rd Party VPNs, All OBW Innovation Projects etc.)
+Main activities:
+• Participate in support missions related to network and security infrastructure.
+• Manage migration projects, configurations and implementation of network and security infrastructure developments.
+• Support Orange Botswana in migration projects (data and flows  collection, reconstruction of flow matrices, service platforms  migration, post migration support).
+• Support datacenter architecture extension projets.
+• Ensure reporting related to the data center equipment lifecycle (EOS, EOL, security bulletin, alert).
+• Analyze the performance of existing networks and services and propose recommendations
+• Recommend technical solutions for the introduction of new services  and technically manage the process of defining and validating E2E  service architectures.
+• Provide appropriate technical recommendations based on OBW constraints.
+• Manage and maintain network (LAN/WAN) and security (Firewalls, Load balancer, etc.) equipment in operational condition,
+• IPSec VPN configurations and maintenance.
+• Provide training in IP Network Technologies.
+• Provides high level maintenance, support, and administration on Firewalls, routers, and switches.
+• Architects, designs, implements, maintains and operates IP systems controls and countermeasures.
+• Responds to IP Network incidents, including security related issues, coordinates with third-party incident responders.
+• Support Wireless and Wire Networks connectivity for equipment and users.
+Competency skills needed:
+• Good knowledge of IP routing and Switching.
+• Good knowledge of server hardware troubleshooting.
+• Good knowledge and skills to configure, troubleshoot, manage and protect DataNetwork.
+• Good understanding of Video and Voice session protocols.
+• Good knowledge in wireless networks configuration.
+• Good knowledge of IT policies and networks (backups, access, confidentiality ...)
+• Knowledge of the architecture of computer networks, OS Linux, Unix, etc.
+• Any certification (CEH, CISA, CCIE / CCNP Security, etc ...) is a plus.
+• Good knowledge of IT Network Security Tools & Methods.
+• Good Knowledge of CISCO IP Fabric Technology/Concept
+• Experience in IP Fabric (CISCO Nexus 9K Switches, Radware ADC, Fortinet Firewalls)
+• Good Presentation skills
+• Good knowledge in Telco Network and Service Platf
+Education and experience requirements:
+• 5 years of experience in networks and information systems security, preferably with an operator or supplier.
+• BSc in any Information Systems or Computer Studies with added advantages in:Certification in Cisco Certified Network Professional, NS6/7.
+Wireless Network Certification
+Certified Information Security Systems Professional.
+Fortinet Network Security Expert. Juniper Certified Fabric Administrator
+RADWARE Application Delivery Controller
+https://www.trending-talent.com/home/VacancyDetails?VID=FzA1pXMRpITDARw/uzQaIQ==
+Closing Date: 22 July 2024
+...........................................................................................................................
+
+PLEASE READ AND FOLLOW INSTRUCTIONS ON EACH POST
+
+ALL THE BEST
+
+TO STANDOUT contact us for a winning CV and Cover letter
+WhatsApp 76 569 528
+
+WE PRODUCE SOME OF THE BEST WORK, UNIQUE NEAT AND
+CLEAN
+
+INTERNATIONAL STANDARD WORK (OUR ORIGINAL WORK)
+
+THE CV HUB BOTSWANA, KO MAPHELO A FETOGANG TENG
+
+INVEST IN YOUR JOB HUNTING WITH US. WE PRODUCE AND PREPARE EXCEPTIONAL WORK",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2244787996273475,2025-07-19 04:00:13+00:00,Netcom Technologies Private Limited,photos,"From the #datacenter and office to the plant floor and production line, Panduit provide a comprehensive portfolio that is optimized to work together so you get the most out of your #infrastructure investment. 
+
+Click Here to Know More 👉🏼 https://shorturl.at/9dFsh
+
+​#Panduit #ConnectivitySolutions #InfrastructureSolutions #enterprise #EnterpriseNetworking #PanduitAPAC #Network #Bangladesh #Dhaka #ICT #Systemengineer",True,False,4.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1571296254786384,2024-01-31 07:04:35+00:00,UNB - United News of Bangladesh,links,"GP unveils state-of-the-art data center in Sylhet
+#gp #Sylhet #datacenter",True,False,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1617871443306487,2024-12-30 10:00:20+00:00,ZDNet.fr,links,"ZDNET Morning 30/12/2024 : Mega datacenter IA, Galaxy Ring 2, LightOn ModernBERT,...",True,False,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1373286504683194,2025-11-12 17:59:37+00:00,Data Center Knowledge,photos,"🔋 Immersion-Cooled BESS: A Game-Changer for Data Center Energy Storage?
+
+Immersion cooling technology promises to address BESS thermal challenges, but adoption hurdles remain for widespread deployment in data centers.
+
+Read more ➡️ https://www.datacenterknowledge.com/energy-power-supply/immersion-cooled-bess-a-game-changer-for-data-center-energy-storage-
+
+#DataCenter #EnergyStorage #BatteryTechnology",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2172950243633373,2025-06-01 04:37:17+00:00,Axentec PLC,videos,"Emphasizing the critical role of seismic zone awareness in Data Center and Disaster Recovery planning, Asif Mahbub, Senior Manager of Cloud & DC Solutions at Axentec PLC, delivered an insightful keynote. 
+
+His expert perspective added depth to the discussion on designing truly resilient infrastructure.
+
+#Axentec #AxentecCloudWebinar #CloudSolutions #DataCenter #DisasterRecovery #InfrastructureResilience #TechLeadership #WebinarInsights",True,False,18.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1362161309404198,2024-06-12 13:50:47+00:00,Networks Baseline,links,"Introduction to Breakout Cables and the purpose
+#CISCO #juniper #arista #datacenter #Networking #networkengineer
+https://www.thenetworkdna.com/2024/04/introduction-to-breakout-cables-and.html",True,False,68.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1370422108554460,2026-07-01 06:44:18+00:00,UAE JOBS,photos,"BK Gulf LLC is excited to announce multiple job openings in Stores & Logistics for our upcoming Data Center & MEP
+Projects across the UAE.
+We are looking for skilled and experienced professionals for the following roles:
+• Logistics Manager (Construction Projects)
+• Senior Storekeepers - MEP
+Storekeepers - MEP
+Storekeeper Assistants
+If you are interested, please send your updated CV to:
+datacentersrecruitment@bkgulf.com
+Kindly mention your applied designation in the email subject line for proper consideration.
+#Hiring #UAEJobs #ConstructionJobs #MEP #DataCenter #LogisticsJobs #SupplyChain #BKGulf #CareerOpportunity",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2515693412231787,2025-11-28 13:37:11+00:00,Litech Pakistan,photos,"Optimizing your network infrastructure just got simpler! ✨
+
+Introducing Litech's Fiber Optic Patch Panel, designed for efficient fiber termination in communication rooms and equipment racks.
+
+Key features include:
+- Cost-effective solution for your fiber optic needs.
+- Front access panel design for easy patching and maintenance.
+- 19"" front mounting for seamless integration into standard racks.
+- Compact design to maximize space saving.
+
+Upgrade your connectivity with Litech! www.litech.com.pk
+..
+Click here to start WhatsApp Chat with Litech:
+👉 https://wa.me/+923137776766 👈
+..
+2 Years Warranty.
+Contact us
+Muhammad Aitzaz
++92 332 6612687
++92 313 7776766
+Wajid Shah
++92 302 8222 806
+Hassan
++92 310 092 4444
+#intelligentPDU #datacenterpower #remotepowermanagement #outletmetering #environmentalsensors #powerscheduling #datacenterautomation #ITefficiency #optimumperformance #datacentre
+
+#Litech #FiberOptic #Networking #DataCenter #FiberTermination #CommunicationRooms #ITInfrastructure #Efficiency",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1025873660349357,2026-07-23 08:01:01+00:00,Logicom Distribution,photos,"Power your business without limits with HPE Smart Choice Servers. 🚀
+ 
+Pre-configured, factory-integrated, and ready to deploy, HPE Smart Choice Servers deliver the performance, reliability, and flexibility modern businesses need to grow with confidence.
+
+Whether you're expanding your infrastructure, supporting critical workloads, or optimizing IT operations, HPE Smart Choice offers the right solution with fast availability and simplified deployment.
+
+Discover all available products on the Logicom eCommerce Portal 👉  https://logicompartners.com/en-gb/Smart-Choice-HPE-July/?websiteId=SanaStore_GR
+
+#LogicomDisti #HPE #SmartChoice #HPEServers #ITInfrastructure #EnterpriseIT #DigitalTransformation #BusinessContinuity #DataCenter #SMBsolutions #SMBs",True,False,1.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1039533002388764,2024-02-12 11:18:22+00:00,Alpine Technologies,photos,"cPanel Hosting.
+
+Get affordable and best web hosting for your business.
+Visit www.alpinetech.biz
+
+#alpine #alpinetechnologies #webhosting #webhostingpakistan #webhostingprovider #servers #Email #sharedhosting #resellerhosting #dedicatedhosting #VPSHosting #managedhosting #cloudhostingservices #colocationserver #wordpress #domains #webhostingcompany #affordable #datacenter #fastesthosting #WordPressHosting #cpanelhosting #cpanel #100uptime #LowPrices #premiumemail #itservices #webhostingoffers #sslcertificates #itsupport",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,29023384720585313,2025-05-03 06:56:49+00:00,FY CLOUD,albums,"𝐒𝐞𝐫𝐯𝐞𝐫 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐂𝐚𝐛𝐢𝐧𝐞𝐭 🗄 
+
+Quality server cabinets can also keep your servers safe and secure. This is especially important when you're using a colocation center. The top server cabinet systems are designed with panels and doors that lock to keep unauthorized people from accessing your equipment.
+
+📌42U 
+
+S38V58 Rack (Part No: 0A311576)
+Dimensions: 600mm x 1000mm x 2000mm
+
+The customizable 42U rack is designed to be compatible with almost all server manufacturers' equipment. It features a symmetrical frame that allows enclosures to be bayed in space-saving layouts, including:
+
+Side-by-side
+One in front of another
+Corner configurations
+U or L arrangements
+
+All of these configurations are possible without the need for an expensive intermediate frame.
+
+📌 42U 0P51 
+
+Open Bay Rack
+
+Dimensions: 600mm x 800mm x 2000mm
+
+The 42U open bay rack cabinet is a versatile storage solution commonly used in data centers, server rooms, and other IT environments.
+The open bay design allows for easy access to equipment, making it simpler to install, maintain, and troubleshoot devices.
+
+📌6U 
+
+Dimensions: 600mm x 450mm x 350mm
+This 6U Wall Mount Server Rack can be wall-mounted or self-standing, making it ideal for organizing:
+
+CCTV systems (XVR, DVR, NVR)
+Network equipment
+Features include:
+Welded frame
+Removable side panels
+Lockable tempered glass door
+
+Cable entries from the top and bottom
+
+Slot for an exhaust fan
+
+𝗔𝗟𝗦𝗢 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗛𝗘𝗥𝗘 𝗔𝗧  FY CLOUD
+4U WALL MOUNTED NETWORK CABINET
+   •530mm Width x 400mm Depth x 210mm Height
+6U WALL MOUNTED NETWORK CABINET
+   • 600mm Width x 450mm Depth x 350mm Height
+   • 530mm Width x 400mm Depth x 300mm Height
+9U WALL MOUNTED NETWORK CABINET
+   • 600mm Width x 450mm Depth x 500mm Height
+   • 530mm Width x 400mm Depth x 450mm Height
+12U NETWORK CABINET
+   • 530mm Width x 400mm Depth x 600mm Height
+18U SERVER NETWORK CABINET
+   • 600mm Width x 600mm Depth x 1000mm Height
+22U SERVER NETWORK CABINET
+   • 600mm Width x 600mm Depth x 1200mm Height
+   • 600mm Width x 800mm Depth x 1200mm Height
+   • 600mm Width x 1000mm Depth x 1200mm Height
+32U SERVER NETWORK CABINET
+   • 600mm Width x 600mm Depth x 1600mm Height
+   • 600mm Width x 800mm Depth x 1600mm Height
+   • 600mm Width x 1000mm Depth x 1600mm Height
+42U SERVER NETWORK CABINET
+   • 600mm Width x 600mm Depth x 2000mm Height
+   • 600mm Width x 800mm Depth x 2000mm Height
+   • 600mm Width x 1000mm Depth x 2000mm Height
+𝗔𝗰𝗰𝗲𝘀𝘀𝗼𝗿𝗶𝗲𝘀 𝗮𝗿𝗲 𝗮𝗹𝘀𝗼 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 :
+•Cable Management
+•Patch Panel
+•PDU
+•Shelf
+----------------------
+
+🔎 Looking for products such as Switch, Server, Router, Wireless AP & AC, Firewall, UPS, Module, License, Storage Cabinet, IP PHONE, PC Set, Laptop, Fiber, Access Points and Controllers and more, kindly contact us to assist you further Cabinet.
+
+For more questions and inquiries, kindly contact us thru our different channels listed below for faster transaction 📩
+📞:  𝟎𝟗𝟏𝟔 (𝟕𝟎𝟒𝟒) 𝟕𝟗𝟒 or on our Facebook 𝐅𝐘 𝐂𝐋𝐎𝐔𝐃
+https://www.facebook.com/Fyclouddd
+
+If you require a formal quotation send your inquiry at
+📧 𝐟𝐲𝐜𝐥𝐨𝐮𝐝𝟕𝟖𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+
+You can also visit our LAZADA STORE to see more of our products.
+🛒 https://www.lazada.com.ph/shop/fycloud
+✔️FY CLOUD
+We are open from Monday to Saturday, 9AM - 6PM
+📍 ADB Avenue Tower, ABD Ave, Ortigas Center, Pasig, 1605 Metro Manila.
+
+#datacablingg #DataCabinet #PDU #patchpanel #datacenter #cablemanagement #servercabinet #officecabinets #6u #9u #12u #22u #feedthrough #punchdown #cat6 #Cat6Cable #cat5e #cat5  #networkingrack #serverrack #homeservercabinet #networkingcabinet #datacenterrack #DataRack #datacentercabinet #WallMountedStorage #wallmountedrack #datacabinetsupplier #powerdistribution #powerdistributor",True,False,7.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,971114308587449,2025-09-25 18:10:18+00:00,Keysight,videos,"Artificial intelligence is reshaping the future of networking.
+
+Avik Bhattacharya, Senior Product Manager at Keysight, explains how the rise of LLMs and massive GPU clusters are creating relentless upgrade cycles and pushing networks to their limits. This scale introduces entirely new challenges for #datacenter design and demands fresh approaches to validation.
+
+Watch the full interview: https://ow.ly/UyN150X2mwC
+Discover more about Keysight’s advanced #AI testing solutions: https://ow.ly/huQN50X2mwB",True,False,15.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1843894759910660,2026-04-30 04:01:00+00:00,Netcom Technologies Private Limited,videos,"Smart buildings are only as reliable as the networks they’re built on. Don’t let your infrastructure be the weak link - see how Panduit can help.
+
+Click Here >>> https://shorturl.at/prdof
+
+#PoweredByPanduit #FutureReady #PanduitAPAC #University #ICT #Procurement #IT #Infrastructure #Solution #Hospital #Pharmaceuticals #Company #Networking #Cabling #LAN #Datacenter #Garments #Manufacturur #UTP #Fiberoptic #Technology #ITdirector #ITmanager #ITadvisor",True,False,8.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1581534083356076,2026-06-26 00:19:21+00:00,Jayden Weekes,albums,"You don't say? 🧐
+
+Also, what about Caroline Gleich and BE Bears?
+
+I think you owe them an apology, Kevin O'Leary 
+
+#utah #datacenter #boxelder",True,False,131.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1452205949223136,2025-02-06 07:30:06+00:00,Vertiv,links,"As #AI and high-performance computing drive higher rack densities, data centers need advanced #coolingsolutions to keep up. ❄️ High-capacity chillers are redefining thermal management, making it #energyefficient, and supporting the demands of modern infrastructure. From hyperscale facilities to industrial applications, these chillers are shaping the future of #datacenter cooling. Vertiv has the insights you need: http://ms.spr.ly/6182Uj12w",True,False,0.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1672469263844024,2026-04-16 12:15:33+00:00,GuiNet Technologies,videos,"𝗦𝗲𝗿𝘃𝗲𝗿 𝗥𝗼𝗼𝗺 𝘃𝘀 𝗗𝗮𝘁𝗮 𝗖𝗲𝗻𝘁𝗲𝗿 | 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗜𝗧 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗦𝗰𝗮𝗹𝗲
+Many people use the terms server room and data center interchangeably, but they differ significantly in scale and capability.
+
+𝗦𝗲𝗿𝘃𝗲𝗿 𝗥𝗼𝗼𝗺:
+🔹 Small-scale setup within an office
+🔹 Limited number of servers
+🔹 Basic cooling and power
+🔹 Minimal redundancy
+
+𝗗𝗮𝘁𝗮 𝗖𝗲𝗻𝘁𝗲𝗿:
+🔹 Large-scale infrastructure
+🔹 Thousands of servers
+🔹 Advanced cooling, power, and security
+🔹 High availability and redundancy
+
+𝗞𝗲𝘆 𝘁𝗮𝗸𝗲𝗮𝘄𝗮𝘆:
+✔ Server Room → Suitable for small businesses
+✔ Data Center → Designed for enterprise and cloud environments
+
+💬 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗱𝗮𝘁𝗮 𝗰𝗲𝗻𝘁𝗲𝗿 𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝗻𝗱 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗹𝗮𝗯𝘀?
+📲 Message us on WhatsApp to get started:
+👉 https://api.whatsapp.com/send?phone=%2B919289682701&text=Hi
+
+#DataCenter #ServerRoom #Networking #CloudComputing #ITInfrastructure #GuiNetTechnologies",True,False,55.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,4490270361299843,2026-07-20 19:23:47+00:00,Michelle Arellano,videos,"We talk about a proposed data center in Stafford County, Virginia, that threatens to disturb a historic cemetery from the 1700s containing graves of enslaved Virginians. Residents, including 94-year-old Dorothy Jones, oppose the project, which could either unearth remains or build over them, pending a court decision.
+
+#StaffordCounty #DataCenter #GraveDisruption #EnslavedAncestors #HistoricPreservation #CemeteryRights #VirginiaNews #PotomacCreek",True,False,231.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1546760499865150,2026-01-07 21:55:35+00:00,Networks Baseline,photos,"This diagram represents a real-world enterprise WAN architecture—connecting HQ, Datacenter, multiple Branches, Global ISPs, DMVPN, MPLS, IaaS, and BGP routing into one resilient, scalable ecosystem 🌐
+
+From high availability to secure connectivity, this is where theory meets production-grade networking.
+
+💡 Key highlights you’re seeing here:
+Multi-branch enterprise connectivity
+BGP, OSPF, EIGRP & DMVPN in action
+Redundant paths for resilience & uptime
+Hybrid cloud & ISP integration
+Designed for scalability, performance & security
+
+👉 If you’re a Network Engineer, Architect, or CCNA/CCNP/CCIE aspirant, this is the kind of topology you must understand.
+
+💬 Question for you:
+Which part of this architecture would you troubleshoot first during an outage? 😄👇
+
+#NetworkEngineering
+#EnterpriseNetworking
+#NetworkArchitecture
+#education
+#networking
+#fblifestyle",True,False,14.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,1792793615035622,2026-06-21 16:01:08+00:00,Haley Hamilton,videos,"Data center built right next to brand new homes in Fort Worth, TX. People that bought there said they had no idea this was being built essentially in their backyards. This is truly fucking concerning.  #Datacenters #fortworthtexas #ErinBrockovich #texas  #datacenter",True,False,1877.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,2199819100815021,2024-01-11 23:14:15+00:00,IBEW Local Union 24,photos,"Members of IBEW Local Union 24 joined with other members of the Baltimore DC Metro Building Trades Council at the Frederick County Data Center  Work Group meeting on Wednesday evening to show our support for Data Centers in Frederick County and speak on the positive impacts they can bring to the community. The work group heard about our tuition free #apprenticeship and retired Brother Tim Stevenson spoke on how a career within the International Brotherhood of Electrical Workers leads to a worry free retirement. 
+Special thanks to Brothers: Blaine Boone, Daniel Berwanger, River Miller, Matt Sisson, Jason Amato, Tim Stevenson, David Smith, Chris May, and Eric Suydam for showing up, staying late⏰ and answering the call to help when needed. 
+⚡️✊⚡️
+Find out more and watch the meetings at:
+
+https://frederickcountymd.gov/8544/Data-Centers-Workgroup
+
+#lightingthepath to the middle class
+#frederickmd
+#datacenter
+#electrician",True,False,73.0,,,
+"Facebook 'datacenter' Query Corpus, 2024–2026",broad_nonpolicy,973737679015974,2024-03-23 07:10:06+00:00,UltaHost,albums,"Optimize performance and ensure seamless user experiences with Load Balancing! 🔄💻
+
+Explore the essence of load balancing and its impact on distributed systems. 
+
+https://buff.ly/3PeNKv9 
+
+#ultahost #LoadBalancing #TechPerformance #ITInfrastructure #NetworkOptimization #ServerManagement #DigitalEfficiency #WebTraffic #TechSolutions #ITManagement #DataCenter",True,False,6.0,,,

@@ -1,0 +1,10 @@
+sample,step,rows,unique_ids,unique_normalized_texts
+Facebook 'datacenter' Query Corpus,raw_query_rows,66055,66055,47109
+Facebook 'datacenter' Query Corpus,english,24947,24947,19880
+Facebook 'datacenter' Query Corpus,exact_term_relevant,24915,24915,19852
+Facebook 'datacenter' Query Corpus,policy_related,3016,3016,2314
+Facebook 'datacenter' Query Corpus,normalized_text_deduplicated,19852,19852,19852
+"Facebook 'datacenter' Query Corpus, April–August 2026",relevant,10597,10597,7695
+"Facebook 'datacenter' Query Corpus, April–August 2026",policy_related,1995,1995,1509
+"Facebook 'datacenter' Query Corpus, April–August 2026",normalized_text_deduplicated,7695,7695,7695
+"Facebook 'datacenter' Query Corpus, April–August 2026",policy_and_text_deduplicated,1509,1509,1509

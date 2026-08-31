@@ -1,0 +1,41 @@
+state,year,posts,policy_posts
+California,2024,12,1
+California,2025,12,2
+California,2026,89,58
+Georgia,2024,5,2
+Georgia,2025,21,7
+Georgia,2026,201,120
+Illinois,2024,2,0
+Illinois,2025,1,0
+Illinois,2026,74,33
+Indiana,2024,7,2
+Indiana,2025,10,2
+Indiana,2026,58,33
+Kentucky,2024,1,0
+Kentucky,2025,9,3
+Kentucky,2026,132,62
+Maine,2026,28,26
+Maryland,2025,8,1
+Maryland,2026,32,25
+Minnesota,2024,2,0
+Minnesota,2025,3,0
+Minnesota,2026,36,22
+New York,2024,8,0
+New York,2025,17,6
+New York,2026,80,62
+North Dakota,2026,6,3
+Ohio,2024,5,0
+Ohio,2025,18,2
+Ohio,2026,127,48
+Oklahoma,2024,1,0
+Oklahoma,2025,7,3
+Oklahoma,2026,283,230
+Oregon,2024,2,0
+Oregon,2025,6,0
+Oregon,2026,49,21
+Texas,2024,15,2
+Texas,2025,45,8
+Texas,2026,466,207
+Virginia,2024,23,8
+Virginia,2025,53,19
+Virginia,2026,164,76

@@ -1,0 +1,12 @@
+field,used,timing
+supportiveness_score,True,coded bill content
+sponsor_count,True,near introduction
+primary_sponsor_count,True,near introduction
+originating_chamber,True,at introduction
+introduction_year,True,at introduction
+region,True,fixed control
+passage_count,False,post-outcome
+passed_vote_event_count,False,post-outcome
+derived_status,False,post-outcome
+latest_action_description,False,post-outcome
+latest_passage_date,False,post-outcome

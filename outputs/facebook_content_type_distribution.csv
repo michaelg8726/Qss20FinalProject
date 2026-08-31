@@ -1,0 +1,9 @@
+query,variable,value,count
+datacenter,content_type,photos,36072
+datacenter,content_type,videos,12096
+datacenter,content_type,albums,8144
+datacenter,content_type,links,6377
+datacenter,content_type,reshare,1924
+datacenter,content_type,status,1238
+datacenter,content_type,<missing>,202
+datacenter,content_type,stories,2

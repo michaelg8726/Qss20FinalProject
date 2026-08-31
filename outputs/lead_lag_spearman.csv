@@ -1,0 +1,15 @@
+lag,definition,event_type,spearman_rho,p_value_descriptive,panel_rows
+-3,positive lag means Facebook count from earlier months is paired with current events,introduction,0.11920094623061828,0.0128515997588557,480
+-3,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.06416013375940618,0.18165002818136317,480
+-2,positive lag means Facebook count from earlier months is paired with current events,introduction,0.10656420504410323,0.02377650838366825,480
+-2,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.12010839474076747,0.010771218949257099,480
+-1,positive lag means Facebook count from earlier months is paired with current events,introduction,0.07380677839589671,0.11196025739982753,480
+-1,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.08073813861160067,0.08200310167109122,480
+0,positive lag means Facebook count from earlier months is paired with current events,introduction,0.02737264163721407,0.5496711107549745,480
+0,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.08559797991511098,0.06094301353222695,480
+1,positive lag means Facebook count from earlier months is paired with current events,introduction,-0.016269287152042403,0.7264081090194243,480
+1,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.06301604435885215,0.17492099157967136,480
+2,positive lag means Facebook count from earlier months is paired with current events,introduction,0.00809663794403978,0.8640030352997915,480
+2,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.08717056359184525,0.06466863502755633,480
+3,positive lag means Facebook count from earlier months is paired with current events,introduction,0.014560856007442514,0.7620171675361654,480
+3,positive lag means Facebook count from earlier months is paired with current events,latest_recorded_passage,0.07671201884176536,0.1101081200200208,480
