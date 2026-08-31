@@ -59,33 +59,6 @@ The supplied spaced-query export is retained locally but unused. The previous tw
 | [06 - Analyze Facebook discourse](code/06_analyze_facebook_discourse.ipynb) | Analyze attention, frames, topics, and engagement language | Cleaned `datacenter` files | Timeline, frames, topics, representative posts, and model metrics |
 | [07 - Compare discourse and legislation](code/07_compare_discourse_and_legislation.ipynb) | Assess temporal and textual alignment and the augmented model | Bills and the `datacenter` corpus | Heatmaps, event windows, lags, cases, TF-IDF pairs, and model comparison |
 
-The `code/` directory contains exactly seven self-contained notebooks. Notebooks 01 and 02 retain the authenticated collection and classification stages but request credentials interactively, mask them, and never save them. Notebooks 03–07 contain their analysis functions directly and make no external API calls. No separate Python helper or notebook-generation script is required.
-
-## Reproduction Procedure
-
-1. Install the versions in `requirements.txt`.
-2. Place the `datacenter` export at `data/raw/facebook_datacenter_2024_2026.csv`.
-3. Obtain your own Open States and Dartmouth Chat API keys. Notebooks 01 and 02 request them through masked `getpass` prompts; never paste a key into a code cell.
-4. Start in `code/` so notebook paths stay relative.
-5. Execute the seven notebooks in numerical order from clean kernels. Each notebook contains all code required for its stage. Notebook 01 resumes completed searches unless `REFRESH_COMPLETED_QUERIES` is intentionally set to `True`; notebook 02 resumes completed bill classifications.
-
-```bash
-cd code
-jupyter lab
-# Run notebooks 01 and 02 interactively and enter each key at its masked prompt.
-
-# After 01 and 02 finish, notebooks 03-07 require no credentials and may also
-# be run interactively or executed unattended with nbconvert.
-```
-
-Because `getpass` requires interactive entry, run notebooks 01 and 02 in Jupyter rather than unattended `nbconvert` when credentials are needed. After their processed outputs exist, notebooks 03–07 can be executed unattended.
-
-## Paper and Website
-
-- [Final submitted paper](output/final_paper.pdf)
-- [Public project website](https://signal-state-data-centers.mikegwise22.chatgpt.site/)
-- [LaTeX source and bibliography](paper/)
-
 ## Public Data Boundary
 
 The public repository includes Open States bill data, aggregate analytical tables, figures, and the code needed to regenerate every result. Raw and processed row-level Meta Content Library records are not redistributed. Those files can contain post text, account identifiers, and account names and are excluded by `.gitignore`. To reproduce the Facebook stages, an authorized user must place their own `datacenter` export at `data/raw/facebook_datacenter_2024_2026.csv`; see [the data documentation](data/README.md).
@@ -102,16 +75,6 @@ The public repository includes Open States bill data, aggregate analytical table
 - [Legislative event windows](output/figures/legislative_event_window.png)
 - [Bill/Facebook frame alignment](output/figures/frame_alignment_bills_facebook.png)
 - [State case studies](output/figures/state_case_studies.png)
-
-## Required Manual Validation
-
-No human results were fabricated. Complete these blank review files before treating measurement validity as established:
-
-- 48 bills in `output/tables/bill_manual_validation_sample.csv`.
-- 100 posts from the longitudinal corpus in `output/tables/facebook_manual_validation_longitudinal.csv`.
-- 100 posts from the 2026 discourse subset in `output/tables/facebook_manual_validation_2026_discourse.csv`.
-- 75 state-mention contexts in `output/tables/facebook_state_mention_manual_review.csv`.
-- 50 highest exploratory bill/post pairs in `output/tables/bill_facebook_tfidf_alignment_top_pairs.csv`.
 
 ## Methodological Limitations
 
